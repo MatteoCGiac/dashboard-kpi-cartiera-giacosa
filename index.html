@@ -5242,7 +5242,7 @@ function computeBudgetFatturatoFromFile(wb,fileName){
 
 /* ══ CASH_FLOW — ISF ══
    Col A (0): data/periodo
-   CONSUNTIVO → Col C (2): Entrate · Col F (5): Uscite · Delta E-U CALCOLATO (Entrate-Uscite)
+   CONSUNTIVO → Col C (2): Entrate · Col F (5): Uscite · Col H (7): Delta E-U
    PREVENTIVO  → Col B (1): Entrate · Col E (4): Uscite · Col I (8): Delta
    Ogni riga rappresenta un periodo; accumula per mese.
 */
@@ -5254,7 +5254,6 @@ function computeCashFlowFromFile(wb,fileName){
     // Consuntivo (colonne C, F, H)
     const colEntrC =findHeaderCol(rows,'ENTRATE',2);
     const colUscC  =findHeaderCol(rows,'USCITE',5);
-    const colDeltaC=findHeaderCol(rows,'DELTA',7);
     // Preventivo: indici fissi B=1, E=4, I=8
     const colEntrP =1;  // col B Entrate Preventivo
     const colUscP  =4;  // col E Uscite Preventivo
