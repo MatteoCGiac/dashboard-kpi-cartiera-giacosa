@@ -5078,7 +5078,7 @@ function _meseFromSheetName(sheetName){
 function _meseFromDate(d){
   if(!d||!(d instanceof Date))return null;
   if(d.getFullYear()===2025){return d.getMonth();}
-  if(d.getFullYear()===2026){const m=d.getMonth();if(m>=0&&m<=4)return 12+m;}
+  if(d.getFullYear()===2026){const m=d.getMonth();if(m>=0&&m<=5)return 12+m;}
   return null;
 }
 // Parses a month value that can be a Date, an Italian month name string, or a date string
