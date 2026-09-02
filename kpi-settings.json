@@ -1,6 +1,6 @@
 {
   "_v": "kpi-settings-v1",
-  "ts": "2026-07-10T06:45:15.859Z",
+  "ts": "2026-09-02T13:04:52.599Z",
   "by": "Master Publisher (MS)",
   "targets": {
     "CCO___ISL": {
@@ -477,7 +477,7 @@
     "INC": true
   },
   "published": {
-    "ts": 1783665915859,
+    "ts": 1788354292599,
     "by": "MS",
     "byName": "Master Publisher (MS)",
     "realData": {
@@ -524,7 +524,7 @@
             29.36,
             38.92,
             20.92,
-            31.26,
+            36.74,
             null,
             18.86,
             25.05,
@@ -549,7 +549,7 @@
             31.93,
             37.74,
             26.17,
-            24.36,
+            35.18,
             null,
             28.37,
             26.87,
@@ -574,7 +574,7 @@
             31.41,
             28.76,
             4.12,
-            15.54,
+            27.53,
             null,
             12.91,
             1.51,
@@ -599,7 +599,7 @@
             29.69,
             20.1,
             15.15,
-            20.12,
+            27.08,
             null,
             17.14,
             15.23,
@@ -894,7 +894,8 @@
             2.6,
             2.12,
             3.2,
-            4.25
+            4.25,
+            2.73
           ]
         }
       },
@@ -918,7 +919,8 @@
             5.6,
             5.43,
             5.72,
-            4.3
+            4.3,
+            4.58
           ]
         }
       },
@@ -942,7 +944,8 @@
             3.24,
             3.47,
             3.44,
-            3.49
+            3.49,
+            3.31
           ]
         }
       },
@@ -966,7 +969,8 @@
             2.6,
             6.7,
             6.1,
-            5.77
+            5.77,
+            8
           ]
         }
       },
@@ -991,7 +995,7 @@
             111.06,
             116.77,
             151.44,
-            151.44,
+            100.31,
             105.64,
             93.23,
             99.89,
@@ -1021,7 +1025,7 @@
             2.1,
             2.2,
             2.59,
-            2.59,
+            2.1,
             1.68,
             1.48,
             1.55,
@@ -1406,11 +1410,11 @@
             -0.6,
             7,
             6,
-            4.5,
-            0.9,
-            4.4,
-            1,
-            -5.5
+            4.6,
+            1.5,
+            5.2,
+            3.5,
+            -0.9
           ]
         }
       },
@@ -1430,9 +1434,9 @@
             null,
             null,
             null,
-            83.4,
-            94.6,
-            100.9,
+            80.4,
+            91.8,
+            95,
             88.3,
             73.9
           ]
@@ -1454,11 +1458,11 @@
             null,
             null,
             null,
-            79.4,
-            101.5,
-            91.1,
-            101.3,
-            77.4
+            76.7,
+            98.7,
+            90,
+            98.5,
+            75.2
           ]
         }
       },
@@ -1478,10 +1482,10 @@
             null,
             null,
             null,
-            98.1,
-            79.8,
-            94.1,
-            92,
+            95.2,
+            77.1,
+            90.1,
+            90.4,
             73.4
           ]
         }
@@ -1506,7 +1510,8 @@
             4,
             4.75,
             7.47,
-            4.09
+            4.09,
+            5.25
           ]
         }
       },
@@ -1550,7 +1555,7 @@
             null,
             null,
             null,
-            191.9
+            157.6
           ]
         }
       },
@@ -1572,7 +1577,7 @@
             null,
             null,
             null,
-            46.3
+            37.8
           ]
         }
       },
@@ -1594,7 +1599,9 @@
             1,
             1,
             1,
-            1
+            1,
+            null,
+            0.97
           ]
         }
       },
@@ -1616,7 +1623,9 @@
             1.02,
             1.02,
             1.02,
-            1.02
+            1.02,
+            null,
+            0.95
           ]
         }
       },
@@ -1640,7 +1649,7 @@
             75.2,
             36.5,
             67.5,
-            47.6
+            61.6
           ],
           "Macchina2": [
             4.1,
@@ -1657,10 +1666,10 @@
             48.6,
             141.3,
             101.1,
-            97.3,
-            85.4,
-            92.3,
-            121.4
+            99,
+            85.9,
+            102,
+            149.9
           ],
           "Forno6": [
             39.3,
@@ -1675,12 +1684,12 @@
             548.9,
             555,
             189.7,
-            418.6,
-            504,
-            332.4,
-            481.1,
-            283.1,
-            437.8
+            433.7,
+            517.3,
+            353.3,
+            486,
+            305.1,
+            451.2
           ],
           "Forno3": [
             96.5,
@@ -1722,9 +1731,9 @@
             84.5,
             45.4,
             68.1,
-            95,
-            95.6,
-            70.1
+            96.8,
+            97.3,
+            56.2
           ],
           "Macchina2": [
             7.8,
@@ -1739,12 +1748,12 @@
             51.9,
             65.7,
             31.2,
-            80.7,
+            82.2,
             98.3,
-            97.1,
-            95.8,
+            97.5,
             96.4,
-            64.2
+            97.4,
+            78.9
           ],
           "Forno6": [
             44.1,
@@ -1757,14 +1766,14 @@
             27.7,
             22.4,
             17.7,
-            41.1,
-            40.6,
-            42.1,
+            42.5,
+            40.1,
+            41,
+            28.3,
+            54.8,
             26,
-            55.8,
-            28.8,
-            55.5,
-            75.6
+            67.5,
+            72.4
           ],
           "Forno3": [
             45.6,
@@ -1779,9 +1788,9 @@
             null,
             null,
             null,
+            37.9,
             100,
-            100,
-            30.9,
+            28.8,
             63.8,
             0,
             100
@@ -1806,9 +1815,9 @@
             74.1,
             65.9,
             78.9,
-            70.6,
-            95,
-            57.9
+            72.2,
+            96.8,
+            57.1
           ],
           "Macchina2": [
             16.4,
@@ -1823,12 +1832,12 @@
             42.4,
             59.8,
             44.4,
-            64.8,
+            65.8,
             94.4,
-            83.6,
-            70.1,
-            82.4,
-            45.5
+            84.3,
+            72.7,
+            88.3,
+            56.4
           ],
           "Forno6": [
             65.4,
@@ -1841,14 +1850,14 @@
             48.4,
             23.9,
             34.9,
-            42.5,
-            37.3,
-            41.8,
-            37.9,
-            36.7,
-            23.4,
-            47.8,
-            66.7
+            43.2,
+            36.5,
+            40.4,
+            38.3,
+            34.4,
+            21.4,
+            54.2,
+            71.9
           ],
           "Forno3": [
             51.5,
@@ -1863,9 +1872,9 @@
             null,
             null,
             null,
+            66.7,
             100,
-            100,
-            25,
+            23.8,
             80,
             0,
             100
@@ -2326,72 +2335,1218 @@
       "__INC_TOT_DEN": 31818823.58
     },
     "computed": {
-      "_TRB_BDG_Macchina1_0": 849000,
-      "_TRB_BDG_Macchina2_0": 3658000,
-      "_TRB_BDG_Forno3_0": 354000,
-      "_TRB_BDG_Forno6_0": 616000,
-      "_TRB_BDG_Macchina1_1": 584000,
-      "_TRB_BDG_Macchina2_1": 4366000,
-      "_TRB_BDG_Forno3_1": 377000,
-      "_TRB_BDG_Forno6_1": 700000,
-      "_TRB_BDG_Macchina1_2": 589000,
-      "_TRB_BDG_Macchina2_2": 4588000,
-      "_TRB_BDG_Forno3_2": 435000,
-      "_TRB_BDG_Forno6_2": 724000,
-      "_TRB_BDG_Macchina1_3": 583333.3333333334,
-      "_TRB_BDG_Macchina2_3": 4386666.666666666,
-      "_TRB_BDG_Forno3_3": 441000,
-      "_TRB_BDG_Forno6_3": 656000,
-      "_TRB_BDG_Macchina1_4": 625000,
-      "_TRB_BDG_Macchina2_4": 4700000,
-      "_TRB_BDG_Forno3_4": 441000,
-      "_TRB_BDG_Forno6_4": 656000,
-      "_TRB_BDG_Macchina1_5": 604166.6666666666,
-      "_TRB_BDG_Macchina2_5": 4543333.333333334,
-      "_TRB_BDG_Forno3_5": 441000,
-      "_TRB_BDG_Forno6_5": 656000,
-      "_TRB_BDG_Macchina1_6": 645833.3333333335,
-      "_TRB_BDG_Macchina2_6": 4856666.666666666,
-      "_TRB_BDG_Forno3_6": 441000,
-      "_TRB_BDG_Forno6_6": 656000,
-      "_TRB_BDG_Macchina1_7": 312500,
-      "_TRB_BDG_Macchina2_7": 2350000,
-      "_TRB_BDG_Forno3_7": 441000,
-      "_TRB_BDG_Forno6_7": 656000,
-      "_TRB_BDG_Macchina1_8": 625000,
-      "_TRB_BDG_Macchina2_8": 4700000,
-      "_TRB_BDG_Forno3_8": 441000,
-      "_TRB_BDG_Forno6_8": 656000,
-      "_TRB_BDG_Macchina1_9": 645833.3333333335,
-      "_TRB_BDG_Macchina2_9": 4856666.666666666,
-      "_TRB_BDG_Forno3_9": 441000,
-      "_TRB_BDG_Forno6_9": 656000,
-      "_TRB_BDG_Macchina1_10": 604166.6666666666,
-      "_TRB_BDG_Macchina2_10": 4543333.333333334,
-      "_TRB_BDG_Forno3_10": 441000,
-      "_TRB_BDG_Forno6_10": 656000,
-      "_TRB_BDG_Macchina1_11": 479166.6666666667,
-      "_TRB_BDG_Macchina2_11": 3603333.3333333335,
-      "_TRB_BDG_Forno3_11": 441000,
-      "_TRB_BDG_Forno6_11": 656000,
-      "_TRB_BDG_Macchina1_12": 1264454.545454545,
-      "_TRB_BDG_Macchina2_12": 4589727.272727274,
-      "_TRB_BDG_Forno6_12": 786000,
-      "_TRB_BDG_Macchina1_13": 1264454.545454545,
-      "_TRB_BDG_Macchina2_13": 4589727.272727274,
-      "_TRB_BDG_Forno6_13": 786000,
-      "_TRB_BDG_Macchina1_14": 1264454.545454545,
-      "_TRB_BDG_Macchina2_14": 4589727.272727274,
-      "_TRB_BDG_Forno6_14": 786000,
-      "_TRB_BDG_Macchina1_15": 1264454.545454545,
-      "_TRB_BDG_Macchina2_15": 4589727.272727274,
-      "_TRB_BDG_Forno6_15": 786000,
-      "_TRB_BDG_Macchina1_16": 1264454.545454545,
-      "_TRB_BDG_Macchina2_16": 4589727.272727274,
-      "_TRB_BDG_Forno6_16": 786000,
-      "_TRB_BDG_Macchina1_17": 1264454.545454545,
-      "_TRB_BDG_Macchina2_17": 4589727.272727274,
-      "_TRB_BDG_Forno6_17": 786000,
+      "_ISF_ENTRATE": {
+        "12": 7539196,
+        "13": 9304029,
+        "14": 9517855,
+        "15": 8104854,
+        "16": 7158883,
+        "17": 7643575
+      },
+      "_ISF_USCITE": {
+        "12": 11041399.459999999,
+        "13": 5054061,
+        "14": 7296390,
+        "15": 8813463,
+        "16": 5869346,
+        "17": 11067852
+      },
+      "_ISF_DELTA": {
+        "12": -3502203.459999999,
+        "13": 4249968,
+        "14": 2221465,
+        "15": -708609,
+        "16": 1289537,
+        "17": -3424277
+      },
+      "_ISF_ENTRATE_P": {
+        "12": 8251226,
+        "13": 6214562,
+        "14": 6704249,
+        "15": 8702937,
+        "16": 8771793.396844245,
+        "17": 8771794.076836275
+      },
+      "_ISF_USCITE_P": {
+        "12": 9849046,
+        "13": 4757682,
+        "14": 5970215,
+        "15": 8334659,
+        "16": 6697123,
+        "17": 10203099.473360296
+      },
+      "_ISF_DELTA_P": {
+        "12": -1597820,
+        "13": 1456880,
+        "14": 734034,
+        "15": 368278,
+        "16": 2074670.3968442455,
+        "17": -1431305.3965240214
+      },
+      "ISF": -1992971.6,
+      "_TRB_NUM_Macchina1_0": 606537,
+      "_TRB_NUM_Macchina1_1": 757406,
+      "_TRB_NUM_Macchina1_2": 721000,
+      "_TRB_NUM_Macchina1_3": 573254,
+      "_TRB_NUM_Macchina1_4": 644040,
+      "_TRB_NUM_Macchina1_5": 714858,
+      "_TRB_NUM_Macchina1_6": 843080,
+      "_TRB_NUM_Macchina1_7": 20924,
+      "_TRB_NUM_Macchina1_8": 726541,
+      "_TRB_NUM_Macchina1_9": 875388,
+      "_TRB_NUM_Macchina1_10": 873113,
+      "_TRB_NUM_Macchina1_11": 608337,
+      "_TRB_NUM_Macchina1_12": 1128110,
+      "_TRB_NUM_Macchina1_13": 933503,
+      "_TRB_NUM_Macchina1_14": 1123126,
+      "_TRB_NUM_Macchina1_15": 1000295,
+      "_TRB_NUM_Macchina1_16": 1048388,
+      "_TRB_NUM_Macchina1_17": 1155917,
+      "_TRB_NUM_Macchina2_0": 3282501,
+      "_TRB_NUM_Macchina2_1": 4059355,
+      "_TRB_NUM_Macchina2_2": 4611402,
+      "_TRB_NUM_Macchina2_3": 4132358,
+      "_TRB_NUM_Macchina2_4": 3872715,
+      "_TRB_NUM_Macchina2_5": 4210132,
+      "_TRB_NUM_Macchina2_6": 4006886,
+      "_TRB_NUM_Macchina2_7": 1113896,
+      "_TRB_NUM_Macchina2_8": 4543683,
+      "_TRB_NUM_Macchina2_9": 4594830,
+      "_TRB_NUM_Macchina2_10": 4305422,
+      "_TRB_NUM_Macchina2_11": 3194207,
+      "_TRB_NUM_Macchina2_12": 4264584,
+      "_TRB_NUM_Macchina2_13": 4043791,
+      "_TRB_NUM_Macchina2_14": 4694430,
+      "_TRB_NUM_Macchina2_15": 3848415,
+      "_TRB_NUM_Macchina2_16": 4366150,
+      "_TRB_NUM_Macchina2_17": 4119511,
+      "_TRB_NUM_Forno3_0": 335831.41,
+      "_TRB_NUM_Forno3_1": 399550.6900000001,
+      "_TRB_NUM_Forno3_2": 103439.98999999999,
+      "_TRB_NUM_Forno3_5": 263471.63,
+      "_TRB_NUM_Forno3_6": 447198.68999999977,
+      "_TRB_NUM_Forno3_7": 55136.18,
+      "_TRB_NUM_Forno3_8": 363364.6599999999,
+      "_TRB_NUM_Forno3_9": 108527.22,
+      "_TRB_NUM_Forno3_10": 144019.55000000002,
+      "_TRB_NUM_Forno3_12": 134130.25999999998,
+      "_TRB_NUM_Forno3_13": 314426.49,
+      "_TRB_NUM_Forno3_14": 384653.2,
+      "_TRB_NUM_Forno3_15": 197590.72000000003,
+      "_TRB_NUM_Forno3_16": 111820.22999999998,
+      "_TRB_NUM_Forno3_17": 43820.079999999994,
+      "_TRB_NUM_Forno6_0": 607311.3,
+      "_TRB_NUM_Forno6_1": 601786.1900000001,
+      "_TRB_NUM_Forno6_2": 599341.05,
+      "_TRB_NUM_Forno6_3": 563131.52,
+      "_TRB_NUM_Forno6_4": 846120.07,
+      "_TRB_NUM_Forno6_5": 626800.6400000001,
+      "_TRB_NUM_Forno6_6": 800089.0200000004,
+      "_TRB_NUM_Forno6_7": 390856.39999999997,
+      "_TRB_NUM_Forno6_8": 952602.5699999998,
+      "_TRB_NUM_Forno6_9": 941611.7700000001,
+      "_TRB_NUM_Forno6_10": 866514.9700000002,
+      "_TRB_NUM_Forno6_11": 492912.5299999999,
+      "_TRB_NUM_Forno6_12": 731218.43,
+      "_TRB_NUM_Forno6_13": 932612.97,
+      "_TRB_NUM_Forno6_14": 1025833.06,
+      "_TRB_NUM_Forno6_15": 875651.1,
+      "_TRB_NUM_Forno6_16": 919882.4,
+      "_TRB_NUM_Forno6_17": 822934.3400000001,
+      "_IFA_NUM_Macchina1_0": 946915.2699999999,
+      "_IFA_NUM_Macchina1_1": 1713363.9,
+      "_IFA_NUM_Macchina1_2": 966162.94,
+      "_IFA_NUM_Macchina1_3": 1461197.7699999998,
+      "_IFA_NUM_Macchina1_4": 938737.5499999999,
+      "_IFA_NUM_Macchina1_5": 1788670.7300000002,
+      "_IFA_NUM_Macchina1_6": 1458619.3600000003,
+      "_IFA_NUM_Macchina1_7": 57224.09,
+      "_IFA_NUM_Macchina1_8": 1112661.67,
+      "_IFA_NUM_Macchina1_9": 2015255.4700000007,
+      "_IFA_NUM_Macchina1_10": 1389188.2400000002,
+      "_IFA_NUM_Macchina1_11": 1282817.9600000002,
+      "_IFA_NUM_Macchina1_12": 2473779.4499999997,
+      "_IFA_NUM_Macchina1_13": 1799620.4000000001,
+      "_IFA_NUM_Macchina1_14": 1901550.3099999998,
+      "_IFA_NUM_Macchina1_15": 1158743.4400000002,
+      "_IFA_NUM_Macchina1_16": 1827744.3200000005,
+      "_IFA_NUM_Macchina1_17": 1806849.0199999996,
+      "_IFA_NUM_Macchina2_0": 2934458.6600000006,
+      "_IFA_NUM_Macchina2_1": 3558209.670000002,
+      "_IFA_NUM_Macchina2_2": 4134255.1499999994,
+      "_IFA_NUM_Macchina2_3": 3756486.000000001,
+      "_IFA_NUM_Macchina2_4": 3505452.0900000003,
+      "_IFA_NUM_Macchina2_5": 3829284.790000001,
+      "_IFA_NUM_Macchina2_6": 3414823.0600000005,
+      "_IFA_NUM_Macchina2_7": 921994.11,
+      "_IFA_NUM_Macchina2_8": 4113339.5300000003,
+      "_IFA_NUM_Macchina2_9": 4259144.250000002,
+      "_IFA_NUM_Macchina2_10": 4018588.4700000007,
+      "_IFA_NUM_Macchina2_11": 2726493.7999999993,
+      "_IFA_NUM_Macchina2_12": 4040598.0850000004,
+      "_IFA_NUM_Macchina2_13": 3666225.285,
+      "_IFA_NUM_Macchina2_14": 4110764.3700000006,
+      "_IFA_NUM_Macchina2_15": 3705679.207,
+      "_IFA_NUM_Macchina2_16": 3939849.12,
+      "_IFA_NUM_Macchina2_17": 3851036.6999999993,
+      "_IFA_NUM_Forno3_0": 755510.4699999999,
+      "_IFA_NUM_Forno3_1": 892118.7999999999,
+      "_IFA_NUM_Forno3_2": 247302.70999999996,
+      "_IFA_NUM_Forno3_5": 592818.2100000001,
+      "_IFA_NUM_Forno3_6": 1004258.0600000002,
+      "_IFA_NUM_Forno3_7": 131473.58,
+      "_IFA_NUM_Forno3_8": 837672.3599999998,
+      "_IFA_NUM_Forno3_9": 252319.93999999997,
+      "_IFA_NUM_Forno3_10": 348053.14,
+      "_IFA_NUM_Forno3_12": 311284.6500000001,
+      "_IFA_NUM_Forno3_13": 753037.5900000002,
+      "_IFA_NUM_Forno3_14": 883180.86,
+      "_IFA_NUM_Forno3_15": 556223.4799999999,
+      "_IFA_NUM_Forno3_16": 350540.67,
+      "_IFA_NUM_Forno3_17": 124654.64,
+      "_IFA_NUM_Forno6_0": 1188201.5599999998,
+      "_IFA_NUM_Forno6_1": 1228355.3999999997,
+      "_IFA_NUM_Forno6_2": 1220428.69,
+      "_IFA_NUM_Forno6_3": 1215138.66,
+      "_IFA_NUM_Forno6_4": 1763023.6900000004,
+      "_IFA_NUM_Forno6_5": 1212770.6500000004,
+      "_IFA_NUM_Forno6_6": 1394777.8400000005,
+      "_IFA_NUM_Forno6_7": 839636.41,
+      "_IFA_NUM_Forno6_8": 1714234.3599999999,
+      "_IFA_NUM_Forno6_9": 1790158.0899999996,
+      "_IFA_NUM_Forno6_10": 1597110.8099999998,
+      "_IFA_NUM_Forno6_11": 937100.5200000001,
+      "_IFA_NUM_Forno6_12": 1438503.4199999997,
+      "_IFA_NUM_Forno6_13": 1704760.8219600006,
+      "_IFA_NUM_Forno6_14": 1786934.1,
+      "_IFA_NUM_Forno6_15": 1852097.9699999995,
+      "_IFA_NUM_Forno6_16": 1834674.19,
+      "_IFA_NUM_Forno6_17": 1844917.9799999997,
+      "_FAC_PREV_13": 65754.39091244664,
+      "_FAC_GCC_PREV_13": 65754.39091244664,
+      "_FAC_PREV_14": 62477.51859811218,
+      "_FAC_GCC_PREV_14": 62477.51859811218,
+      "_FAC_PREV_15": 59059.20293010892,
+      "_FAC_GCC_PREV_15": 59059.20293010892,
+      "_FAC_PREV_16": 61566.88623968525,
+      "_FAC_GCC_PREV_16": 61566.88623968525,
+      "_FAC_PREV_17": 62502.422272078846,
+      "_FAC_GCC_PREV_17": 62502.422272078846,
+      "_FAC_GCC_ART": {
+        "13": {
+          "10020000": 7393.243496687576,
+          "10030101": 329.21173475900287,
+          "10040000": 3696.621748343788,
+          "10050101": 43.39373617021277,
+          "10060101": 5117.6247671097,
+          "10060102": 1885.3903793817176,
+          "10080101": 13315.182376717821,
+          "10100101": 19710.603472793133,
+          "10100201": 10699.8944604403,
+          "20010101": 28959.909591474974,
+          "20030101": 30360.355157028334,
+          "30020101": 3107.1442449199017,
+          "30020209": 1279.6771839580213,
+          "30020212": 754.15301007391,
+          "30020301": 2636.120560936705,
+          "30020401": 118.34655319148935,
+          "30020402": 1340.3376574765211,
+          "30040307": 2.3547019199999997,
+          "30040316": 1.4464578723404256,
+          "30040401": 56.32696708860759,
+          "30040402": 14.893301265412749,
+          "30040403": 682.9242037647165,
+          "30040405": 1.1124576000000002,
+          "30040510": 2.5136039191640545
+        },
+        "14": {
+          "10020000": 7393.243496687576,
+          "10030101": 596.6962692506927,
+          "10040000": 3696.621748343788,
+          "10050101": 43.39373617021277,
+          "10060101": 7577.340561471916,
+          "10060102": 3417.2700626293636,
+          "10080101": 10702.454289157573,
+          "10100101": 15657.693579705081,
+          "10100201": 10682.744564401535,
+          "20010101": 25325.219695786505,
+          "20030101": 26727.771116555963,
+          "30020101": 6242.256999319902,
+          "30020209": 1279.6771839580213,
+          "30020212": 754.15301007391,
+          "30020301": 2636.120560936705,
+          "30020401": 118.34655319148935,
+          "30020402": 1340.3376574765211,
+          "30040307": 2.3547019199999997,
+          "30040316": 1.4464578723404256,
+          "30040401": 56.32696708860759,
+          "30040402": 14.893301265412749,
+          "30040403": 685.0486214420704,
+          "30040405": 1.1124576000000002,
+          "30040510": 2.5136039191640545
+        },
+        "15": {
+          "10020000": 3416.3019797173374,
+          "10040000": 1708.1509898586687,
+          "10060101": 8052.259251382949,
+          "10080101": 8670.94958497334,
+          "10100101": 17162.294030313227,
+          "10100201": 12281.85739198417,
+          "20010101": 27221.039504039567,
+          "20030101": 30218.633708096393,
+          "30020101": 4269.074693719902,
+          "30020209": 545.9409075736326,
+          "30020212": 419.41571923076924,
+          "30020301": 1141.1648036195922,
+          "30020402": 1963.160073541675,
+          "30040401": 225.79279895959772,
+          "30040402": 1.6353139230769231,
+          "30040403": 820.1672070426301,
+          "30040510": 0.5679022413186813
+        },
+        "16": {
+          "10020000": 6828.1417338634865,
+          "10040000": 3414.0708669317432,
+          "10060101": 6319.543072639546,
+          "10080101": 11785.583463016776,
+          "10100101": 21727.12369211787,
+          "10100201": 5732.61596751706,
+          "20010101": 28375.891073292627,
+          "20030101": 30143.816529027725,
+          "30020101": 3008.400536119902,
+          "30020209": 998.247786560783,
+          "30020212": 884.2699805805793,
+          "30020301": 2035.9278320634075,
+          "30020402": 1353.5260414373213,
+          "30040307": 1.5698012799999999,
+          "30040325": 0.026002565853658538,
+          "30040401": 75.10262278481012,
+          "30040402": 22.275947019182084,
+          "30040403": 417.8728019988474,
+          "30040405": 3.457279296133025,
+          "30040510": 5.7515243651747525,
+          "30040604": 0.5579248916706789
+        },
+        "17": {
+          "10020000": 5272.424097811233,
+          "10030101": 503.1172254956897,
+          "10040000": 2637.4787159190014,
+          "10050101": 2661.9067086601276,
+          "10060101": 8402.83667945675,
+          "10070101": 1409.5031650016192,
+          "10080101": 8874.588943720606,
+          "10100101": 17175.754640052077,
+          "10100201": 9041.577346757074,
+          "20010101": 28437.75484983894,
+          "20030101": 32327.178264942475,
+          "30020101": 3036.3690456,
+          "30020209": 529.0969166595971,
+          "30020212": 766.5065252802649,
+          "30020301": 1575.1349363299014,
+          "30020401": 69.03548936170213,
+          "30020402": 1552.3340127555596,
+          "30040307": 2.7471522399999997,
+          "30040316": 0.8437670921985815,
+          "30040325": 0.15290062458934794,
+          "30040401": 147.77195640326977,
+          "30040402": 4.186330142307693,
+          "30040403": 554.3302230283076,
+          "30040405": 8.900618530379477,
+          "30040504": 4.4431206148267774,
+          "30040510": 8.80613017171484,
+          "30040604": 0.06478166746987951
+        }
+      },
+      "_FAC_ART_DESC": {
+        "10020000": "FBC",
+        "10030101": "FLV",
+        "10040000": "FBL",
+        "10050101": "CTMP",
+        "10060101": "BCTMP",
+        "10060102": "CTMP-SECCA",
+        "10070101": "AMERICANI",
+        "10080101": "KLB",
+        "10090101": "WHITE TOP",
+        "10100101": "DLK",
+        "10100201": "DLK_B",
+        "20010101": "KSK_A",
+        "20030101": "KSK_C",
+        "30020101": "ALLUMINA",
+        "30020202": "TIO2 SR-2377",
+        "30020203": "TITANIO KRONOS 2800",
+        "30020206": "TITANIO RGLP2",
+        "30020209": "TITANIO TRONOX 722",
+        "30020211": "TITANIO TIOMAC 230 WSB",
+        "30020212": "TITANIO TYR 588",
+        "30020301": "CAOLINO OT 80",
+        "30020401": "TALCO IN SACCHI",
+        "30020402": "TALCO SFUSO",
+        "30040307": "GIALLO FLEXONIL FGL - X",
+        "30040316": "GIALLO PERGASOL S-Z",
+        "30040325": "GIALLO IRGALITE ET",
+        "30040401": "CARBON BLACK",
+        "30040402": "NERO OSSIDO 77",
+        "30040403": "NERO PRINTEX 30",
+        "30040405": "NERO IRGALITE 2B - LN",
+        "30040504": "ROSSO FLEXONIL E 5 B",
+        "30040510": "ROSSO OSSIDO 1020",
+        "30040604": "VERDE T-X",
+        "30110101": "BIANCO FISSO"
+      },
+      "_FF_CLIENTI": [
+        {
+          "cliente": "ABET LAMINATI SPA",
+          "tipo": "AIG",
+          "ff": 64.29047575000001
+        },
+        {
+          "cliente": "ARPA INDUSTRIALE SPA",
+          "tipo": "AIG",
+          "ff": 82.56978230545454
+        },
+        {
+          "cliente": "ASD LAMINAT.A.S.",
+          "tipo": "AIG",
+          "ff": 57.52702599999999
+        },
+        {
+          "cliente": "BARTOLI S.P.A.",
+          "tipo": "AIG",
+          "ff": 17.582376666666665
+        },
+        {
+          "cliente": "CHIMICA POMPONESCO SPA",
+          "tipo": "AIG",
+          "ff": 20.317580000000003
+        },
+        {
+          "cliente": "CLEAF SPA",
+          "tipo": "AIG",
+          "ff": 55.87427706
+        },
+        {
+          "cliente": "CONSORZIO ENERGY PAPER S.C.A.R.L.",
+          "tipo": "AIG",
+          "ff": 55.348
+        },
+        {
+          "cliente": "DECOR IN PRINTING SPA",
+          "tipo": "AIG",
+          "ff": 2.7795540000000063
+        },
+        {
+          "cliente": "DI Dekodur International GmbH & Co.",
+          "tipo": "AIG",
+          "ff": 25.157220000000002
+        },
+        {
+          "cliente": "EGGER HOLZWERKSTOFFE WISMAR",
+          "tipo": "AIG",
+          "ff": 1.356544999999998
+        },
+        {
+          "cliente": "F I N S A",
+          "tipo": "AIG",
+          "ff": 24.538125
+        },
+        {
+          "cliente": "FILIPPI 1971 SRL",
+          "tipo": "AIG",
+          "ff": 61.25001000000001
+        },
+        {
+          "cliente": "FORMICA LIMITED",
+          "tipo": "AIG",
+          "ff": 9.827306666666658
+        },
+        {
+          "cliente": "FUNDERMAX  GmbH",
+          "tipo": "AIG",
+          "ff": 21.815226666666664
+        },
+        {
+          "cliente": "GENTAS DEKORATIF YUZEYLER SANAYI ve",
+          "tipo": "AIG",
+          "ff": 68.19001966666667
+        },
+        {
+          "cliente": "GRUPPO MAURO SAVIOLA srl",
+          "tipo": "AIG",
+          "ff": 52.85718708
+        },
+        {
+          "cliente": "HANS SCHMID KG. GMBH UND CO.",
+          "tipo": "AIG",
+          "ff": 25.486283750000005
+        },
+        {
+          "cliente": "KOKUSAI PULP&PAPER CO., LTD",
+          "tipo": "AIG",
+          "ff": 11.558780000000002
+        },
+        {
+          "cliente": "LA-CON SPA",
+          "tipo": "AIG",
+          "ff": 21.638646666666673
+        },
+        {
+          "cliente": "LAMICOLOR SPA",
+          "tipo": "AIG",
+          "ff": 1.0487652666666665
+        },
+        {
+          "cliente": "MADERAS MEJORADAS INDUSTRIAL S.A.U.",
+          "tipo": "AIG",
+          "ff": 18.21264
+        },
+        {
+          "cliente": "MELATONE LTD.",
+          "tipo": "AIG",
+          "ff": 23.42732000000001
+        },
+        {
+          "cliente": "MERINO INDUSTRIES LIMITED,",
+          "tipo": "AIG",
+          "ff": 18.847076666666673
+        },
+        {
+          "cliente": "NEODECORTECH SPA",
+          "tipo": "AIG",
+          "ff": 50.52747666666666
+        },
+        {
+          "cliente": "PELIT ARSLAN KONTRPLAK FABRIKASI",
+          "tipo": "AIG",
+          "ff": 6.207666666666666
+        },
+        {
+          "cliente": "PFLEIDERER ARNSBERG GMBH",
+          "tipo": "AIG",
+          "ff": 26.468442000000003
+        },
+        {
+          "cliente": "PFLEIDERER LEUTKIRCH GMBH",
+          "tipo": "AIG",
+          "ff": 21.955908999999995
+        },
+        {
+          "cliente": "POLYREY SAS",
+          "tipo": "AIG",
+          "ff": 42.327999999999996
+        },
+        {
+          "cliente": "PURICELLI S.R.L.",
+          "tipo": "AIG",
+          "ff": 14.83879136363636
+        },
+        {
+          "cliente": "SAFER GROUP SRL",
+          "tipo": "AIG",
+          "ff": 100
+        },
+        {
+          "cliente": "SHANGHAI FORMICA DECO MAT CO.",
+          "tipo": "AIG",
+          "ff": 13.595965
+        },
+        {
+          "cliente": "SIME ENERGIA S.R.L.",
+          "tipo": "AIG",
+          "ff": 100
+        },
+        {
+          "cliente": "SM'art S.r.l.",
+          "tipo": "AIG",
+          "ff": 61.743590000000005
+        },
+        {
+          "cliente": "SURFORMA, S.A.",
+          "tipo": "AIG",
+          "ff": 11.409203333333329
+        },
+        {
+          "cliente": "TACON DECOR, S.L",
+          "tipo": "AIG",
+          "ff": 60.046872500000006
+        },
+        {
+          "cliente": "TURIN CARTA SRL",
+          "tipo": "AIG",
+          "ff": 100
+        },
+        {
+          "cliente": "UNILIN BVBA",
+          "tipo": "AIG",
+          "ff": 40.88648833333334
+        },
+        {
+          "cliente": "WESTAG AG",
+          "tipo": "AIG",
+          "ff": 14.438666666666666
+        },
+        {
+          "cliente": "PURICELLI S.R.L.",
+          "tipo": "COFACE",
+          "ff": 76.2283788888889
+        },
+        {
+          "cliente": "PURIPLAST HELLAS  AE",
+          "tipo": "COFACE",
+          "ff": 31.561666666666667
+        }
+      ],
+      "FF": 37.8,
+      "INC": 0,
+      "_DSO_DEN": 52666840.64999998,
+      "_INC_CLIENTI": [
+        {
+          "customer": "ABET LAMINATI SPA",
+          "fatturato": 9004307.03,
+          "isNew": false
+        },
+        {
+          "customer": "ARPA INDUSTRIALE SPA",
+          "fatturato": 6843571.69,
+          "isNew": false
+        },
+        {
+          "customer": "ASD LAMINAT.A.S.",
+          "fatturato": 5848765.81,
+          "isNew": false
+        },
+        {
+          "customer": "POLYREY SAS",
+          "fatturato": 4580186.66,
+          "isNew": false
+        },
+        {
+          "customer": "CLEAF SPA",
+          "fatturato": 3338256.97,
+          "isNew": false
+        },
+        {
+          "customer": "GENTAS DEKORATIF YUZEYLER SANAYI ve",
+          "fatturato": 3077319.17,
+          "isNew": false
+        },
+        {
+          "customer": "HANS SCHMID KG. GMBH UND CO.",
+          "fatturato": 3065421.58,
+          "isNew": false
+        },
+        {
+          "customer": "UNILIN BVBA",
+          "fatturato": 2438132.53,
+          "isNew": false
+        },
+        {
+          "customer": "LAMICOLOR SPA",
+          "fatturato": 2360666.49,
+          "isNew": false
+        },
+        {
+          "customer": "GREENLAM INDUSTRIES LTD,",
+          "fatturato": 1876437.12,
+          "isNew": false
+        },
+        {
+          "customer": "SM'art S.r.l.",
+          "fatturato": 1622373.02,
+          "isNew": false
+        },
+        {
+          "customer": "FUNDERMAX  GmbH",
+          "fatturato": 1594531.86,
+          "isNew": false
+        },
+        {
+          "customer": "TACON DECOR, S.L",
+          "fatturato": 1148401.38,
+          "isNew": false
+        },
+        {
+          "customer": "CONSORZIO ENERGY PAPER S.C.A.R.L.",
+          "fatturato": 1132959.54,
+          "isNew": false
+        },
+        {
+          "customer": "PFLEIDERER LEUTKIRCH GMBH",
+          "fatturato": 740130.62,
+          "isNew": false
+        },
+        {
+          "customer": "GRUPPO MAURO SAVIOLA srl",
+          "fatturato": 575277.48,
+          "isNew": false
+        },
+        {
+          "customer": "PFLEIDERER ARNSBERG GMBH",
+          "fatturato": 558106.56,
+          "isNew": false
+        },
+        {
+          "customer": "PURICELLI S.R.L.",
+          "fatturato": 448893.86,
+          "isNew": false
+        },
+        {
+          "customer": "D.TRADING D.O.O.",
+          "fatturato": 370839.75,
+          "isNew": false
+        },
+        {
+          "customer": "LA-CON SPA",
+          "fatturato": 327936.49,
+          "isNew": false
+        },
+        {
+          "customer": "FORMICA LIMITED",
+          "fatturato": 295777.67,
+          "isNew": false
+        },
+        {
+          "customer": "NEODECORTECH SPA",
+          "fatturato": 257288.22,
+          "isNew": false
+        },
+        {
+          "customer": "FILIPPI 1971 SRL",
+          "fatturato": 216018.27,
+          "isNew": false
+        },
+        {
+          "customer": "DI Dekodur International GmbH & Co.",
+          "fatturato": 208979.2,
+          "isNew": false
+        },
+        {
+          "customer": "CESAPLAST SPA",
+          "fatturato": 182961.45,
+          "isNew": false
+        },
+        {
+          "customer": "MADERAS MEJORADAS INDUSTRIAL S.A.U.",
+          "fatturato": 165976.51,
+          "isNew": false
+        },
+        {
+          "customer": "WESTAG AG",
+          "fatturato": 135418,
+          "isNew": false
+        },
+        {
+          "customer": "Pinelake Dis Ticaret Limited",
+          "fatturato": 111882.6,
+          "isNew": false
+        },
+        {
+          "customer": "SURFORMA, S.A.",
+          "fatturato": 106899.65,
+          "isNew": false
+        },
+        {
+          "customer": "CENTURY PANELS LIMITED",
+          "fatturato": 104829.45,
+          "isNew": false
+        },
+        {
+          "customer": "MELATONE LTD.",
+          "fatturato": 102332.96,
+          "isNew": false
+        },
+        {
+          "customer": "GREENLAM LIMITED, PLOT NO.19,19A,",
+          "fatturato": 93941.25,
+          "isNew": false
+        },
+        {
+          "customer": "F I N S A",
+          "fatturato": 92742.61,
+          "isNew": false
+        },
+        {
+          "customer": "PT.TACO ANUGRAH CORPORINDO KAWASAN",
+          "fatturato": 83617.7,
+          "isNew": false
+        },
+        {
+          "customer": "PELIT ARSLAN KONTRPLAK FABRIKASI",
+          "fatturato": 75602.38,
+          "isNew": false
+        },
+        {
+          "customer": "GREENPANEL INDUSTRIES LTD.UNIT-II,",
+          "fatturato": 71218.91,
+          "isNew": false
+        },
+        {
+          "customer": "EGGER HOLZWERKSTOFFE WISMAR",
+          "fatturato": 70618.98,
+          "isNew": false
+        },
+        {
+          "customer": "KULSAN MELAMIN PLASTIK SAN.TIC.COME",
+          "fatturato": 65681.36,
+          "isNew": false
+        },
+        {
+          "customer": "ALTEA CAR DI PALMIERE MARCO",
+          "fatturato": 61351.1,
+          "isNew": false
+        },
+        {
+          "customer": "EGGER PANNEAUX & DECORS S.A.S",
+          "fatturato": 60877.48,
+          "isNew": false
+        },
+        {
+          "customer": "KOKUSAI PULP&PAPER CO., LTD",
+          "fatturato": 60719.36,
+          "isNew": false
+        },
+        {
+          "customer": "CROWN DECOR PVT LTD.",
+          "fatturato": 54965.44,
+          "isNew": false
+        },
+        {
+          "customer": "MERINO INDUSTRIES LIMITED,",
+          "fatturato": 54182.25,
+          "isNew": false
+        },
+        {
+          "customer": "ROLKEM",
+          "fatturato": 50767.37,
+          "isNew": false
+        },
+        {
+          "customer": "SIME ENERGIA S.R.L.",
+          "fatturato": 49215,
+          "isNew": false
+        },
+        {
+          "customer": "JIANGSU BODA NEW MATERIALS TECHNOLO",
+          "fatturato": 47113.89,
+          "isNew": false
+        },
+        {
+          "customer": "BARTOLI S.P.A.",
+          "fatturato": 43235.35,
+          "isNew": false
+        },
+        {
+          "customer": "TURIN CARTA SRL",
+          "fatturato": 41657.9,
+          "isNew": false
+        },
+        {
+          "customer": "GRUPO ALVIC FR MOBILIARIO SL",
+          "fatturato": 39975.25,
+          "isNew": false
+        },
+        {
+          "customer": "CHIMICA POMPONESCO SPA",
+          "fatturato": 37824.5,
+          "isNew": false
+        },
+        {
+          "customer": "LAMTUF LIMITED",
+          "fatturato": 36168.71,
+          "isNew": false
+        },
+        {
+          "customer": "TRESPA INTERNATIONAL BV",
+          "fatturato": 34052.4,
+          "isNew": false
+        },
+        {
+          "customer": "GUANGZHOU G AND P NEW COMPOSITE",
+          "fatturato": 29136.74,
+          "isNew": false
+        },
+        {
+          "customer": "ZHEJIANG REXIN DECOR.MATERIAL.CO.",
+          "fatturato": 28918.53,
+          "isNew": false
+        },
+        {
+          "customer": "SHANGHAI FORMICA DECO MAT CO.",
+          "fatturato": 27680.51,
+          "isNew": false
+        },
+        {
+          "customer": "SHANGHAI EAST BEST FOREIGN TRADE",
+          "fatturato": 27241.25,
+          "isNew": false
+        },
+        {
+          "customer": "LOMBARDO SPA",
+          "fatturato": 27221.45,
+          "isNew": false
+        },
+        {
+          "customer": "SURFACTOR GERMANY GMBH",
+          "fatturato": 26010.4,
+          "isNew": false
+        },
+        {
+          "customer": "SAFER GROUP SRL",
+          "fatturato": 24213.6,
+          "isNew": false
+        },
+        {
+          "customer": "RESOPAL GmbH",
+          "fatturato": 23040.84,
+          "isNew": false
+        },
+        {
+          "customer": "EUROCAR ITALIA SRL",
+          "fatturato": 17003.68,
+          "isNew": false
+        },
+        {
+          "customer": "SUNFLOWER CORPORATION",
+          "fatturato": 16761.64,
+          "isNew": false
+        },
+        {
+          "customer": "DAESHIN MELAMINE INDUSTRIAL CO.,LTD",
+          "fatturato": 16309.12,
+          "isNew": false
+        },
+        {
+          "customer": "DECOR IN PRINTING SPA",
+          "fatturato": 15702.86,
+          "isNew": false
+        },
+        {
+          "customer": "Lignadecor Uretim ve Pazarlama A.S.",
+          "fatturato": 11251.73,
+          "isNew": false
+        },
+        {
+          "customer": "SRT ITALIA",
+          "fatturato": 8262.19,
+          "isNew": false
+        },
+        {
+          "customer": "TRE EMME Srl",
+          "fatturato": 4117.7,
+          "isNew": false
+        },
+        {
+          "customer": "INFRASTRUTTURE WIRELESS ITALIANE",
+          "fatturato": 4000,
+          "isNew": false
+        },
+        {
+          "customer": "SURFACTOR ASIA PACIFIC SDN.BHD.",
+          "fatturato": 3643.85,
+          "isNew": false
+        },
+        {
+          "customer": "VIRGO LAMINATES LIMITED",
+          "fatturato": 3010.38,
+          "isNew": false
+        },
+        {
+          "customer": "SWISS KRONO AG",
+          "fatturato": 2035.8,
+          "isNew": false
+        },
+        {
+          "customer": "WM-RECYCLE AMERICA L.L.C.",
+          "fatturato": 1800,
+          "isNew": false
+        },
+        {
+          "customer": "NUOVA CRUMIERE S.C.P.A.",
+          "fatturato": 1500,
+          "isNew": true
+        },
+        {
+          "customer": "OVERMADE SRL",
+          "fatturato": 1454,
+          "isNew": false
+        },
+        {
+          "customer": "WELCOME SRL",
+          "fatturato": 500,
+          "isNew": false
+        },
+        {
+          "customer": "AUTOTRASPORTI DI LALIC SINISA",
+          "fatturato": 125,
+          "isNew": false
+        },
+        {
+          "customer": "NIKKA ROSE LAPITAN",
+          "fatturato": 100,
+          "isNew": false
+        },
+        {
+          "customer": "MASSARENTI EBER",
+          "fatturato": 50,
+          "isNew": false
+        },
+        {
+          "customer": "CHIODO S.A.S. DI CHIODO ANGELO",
+          "fatturato": 25,
+          "isNew": false
+        },
+        {
+          "customer": "MARTINETTO PALLETS",
+          "fatturato": 1,
+          "isNew": false
+        },
+        {
+          "customer": "COMOLI FERRARI & C. S.P.A.",
+          "fatturato": 1,
+          "isNew": false
+        },
+        {
+          "customer": "NIHON DECOLUXE-KOKUSAI PULP & PAPER",
+          "fatturato": 0.44,
+          "isNew": true
+        },
+        {
+          "customer": "FILP S.R.L.",
+          "fatturato": 0,
+          "isNew": false
+        },
+        {
+          "customer": "SWISS KRONO SP.Z0.0.",
+          "fatturato": 0,
+          "isNew": false
+        },
+        {
+          "customer": "ALMILL DOO MILICI, BIH",
+          "fatturato": 0,
+          "isNew": false
+        },
+        {
+          "customer": "CAMBRO OZAY PLASTIK SAN.VE TIC.A.S.",
+          "fatturato": 0,
+          "isNew": false
+        }
+      ],
+      "_DSO_FAT_CLIENT": {
+        "ABET LAMINATI SPA": 9004307.03,
+        "ARPA INDUSTRIALE SPA": 6843571.69,
+        "CESAPLAST SPA": 182961.45,
+        "LAMICOLOR SPA": 2360666.49,
+        "LOMBARDO SPA": 27221.45,
+        "PURICELLI S.R.L.": 448893.86,
+        "LA-CON SPA": 327936.49,
+        "CLEAF SPA": 3338256.97,
+        "CHIMICA POMPONESCO SPA": 37824.5,
+        "DECOR IN PRINTING SPA": 15702.86,
+        "GRUPPO MAURO SAVIOLA srl": 575277.48,
+        "BARTOLI S.P.A.": 43235.35,
+        "TRE EMME Srl": 4117.7,
+        "TURIN CARTA SRL": 41657.9,
+        "SM'art S.r.l.": 1622373.02,
+        "MARTINETTO PALLETS": 1,
+        "NEODECORTECH SPA": 257288.22,
+        "CONSORZIO ENERGY PAPER S.C.A.R.L.": 1132959.54,
+        "SIME ENERGIA S.R.L.": 49215,
+        "INFRASTRUTTURE WIRELESS ITALIANE": 4000,
+        "SAFER GROUP SRL": 24213.6,
+        "FILIPPI 1971 SRL": 216018.27,
+        "ALTEA CAR DI PALMIERE MARCO": 61351.1,
+        "NIKKA ROSE LAPITAN": 100,
+        "NUOVA CRUMIERE S.C.P.A.": 1500,
+        "AUTOTRASPORTI DI LALIC SINISA": 125,
+        "MASSARENTI EBER": 50,
+        "CHIODO S.A.S. DI CHIODO ANGELO": 25,
+        "EUROCAR ITALIA SRL": 17003.68,
+        "WELCOME SRL": 500,
+        "OVERMADE SRL": 1454,
+        "COMOLI FERRARI & C. S.P.A.": 1,
+        "SRT ITALIA": 8262.19,
+        "FUNDERMAX  GmbH": 1594531.86,
+        "UNILIN BVBA": 2438132.53,
+        "SWISS KRONO AG": 2035.8,
+        "GUANGZHOU G AND P NEW COMPOSITE": 29136.74,
+        "SHANGHAI FORMICA DECO MAT CO.": 27680.51,
+        "ZHEJIANG REXIN DECOR.MATERIAL.CO.": 28918.53,
+        "JIANGSU BODA NEW MATERIALS TECHNOLO": 47113.89,
+        "SHANGHAI EAST BEST FOREIGN TRADE": 27241.25,
+        "DI Dekodur International GmbH & Co.": 208979.2,
+        "HANS SCHMID KG. GMBH UND CO.": 3065421.58,
+        "WESTAG AG": 135418,
+        "RESOPAL GmbH": 23040.84,
+        "EGGER HOLZWERKSTOFFE WISMAR": 70618.98,
+        "PFLEIDERER LEUTKIRCH GMBH": 740130.62,
+        "PFLEIDERER ARNSBERG GMBH": 558106.56,
+        "SURFACTOR GERMANY GMBH": 26010.4,
+        "F I N S A": 92742.61,
+        "MADERAS MEJORADAS INDUSTRIAL S.A.U.": 165976.51,
+        "TACON DECOR, S.L": 1148401.38,
+        "GRUPO ALVIC FR MOBILIARIO SL": 39975.25,
+        "ROLKEM": 50767.37,
+        "POLYREY SAS": 4580186.66,
+        "EGGER PANNEAUX & DECORS S.A.S": 60877.48,
+        "FORMICA LIMITED": 295777.67,
+        "D.TRADING D.O.O.": 370839.75,
+        "PT.TACO ANUGRAH CORPORINDO KAWASAN": 83617.7,
+        "LAMTUF LIMITED": 36168.71,
+        "GREENPANEL INDUSTRIES LTD.UNIT-II,": 71218.91,
+        "GREENLAM INDUSTRIES LTD,": 1876437.12,
+        "CROWN DECOR PVT LTD.": 54965.44,
+        "MERINO INDUSTRIES LIMITED,": 54182.25,
+        "GREENLAM LIMITED, PLOT NO.19,19A,": 93941.25,
+        "CENTURY PANELS LIMITED": 104829.45,
+        "VIRGO LAMINATES LIMITED": 3010.38,
+        "KOKUSAI PULP&PAPER CO., LTD": 60719.36,
+        "NIHON DECOLUXE-KOKUSAI PULP & PAPER": 0.44,
+        "MELATONE LTD.": 102332.96,
+        "DAESHIN MELAMINE INDUSTRIAL CO.,LTD": 16309.12,
+        "SURFACTOR ASIA PACIFIC SDN.BHD.": 3643.85,
+        "TRESPA INTERNATIONAL BV": 34052.4,
+        "SURFORMA, S.A.": 106899.65,
+        "SUNFLOWER CORPORATION": 16761.64,
+        "GENTAS DEKORATIF YUZEYLER SANAYI ve": 3077319.17,
+        "PELIT ARSLAN KONTRPLAK FABRIKASI": 75602.38,
+        "KULSAN MELAMIN PLASTIK SAN.TIC.COME": 65681.36,
+        "ASD LAMINAT.A.S.": 5848765.81,
+        "Lignadecor Uretim ve Pazarlama A.S.": 11251.73,
+        "Pinelake Dis Ticaret Limited": 111882.6,
+        "WM-RECYCLE AMERICA L.L.C.": 1800
+      },
+      "_IFA_BDG_Macchina1_0": 1638030,
+      "IFA": 111,
+      "_IFA_BDG_Macchina2_0": 3277720,
+      "_IFA_BDG_Forno3_0": 813322.9085208217,
+      "_IFA_BDG_Forno6_0": 1139996.0041773226,
+      "_ISL_BDG_Macchina1_0": 849000,
+      "_ISL_BDG_Macchina2_0": 3658000,
+      "_ISL_BDG_Forno3_0": 354000,
+      "_ISL_BDG_Forno6_0": 616000,
+      "_IFA_BDG_Macchina1_1": 1122790,
+      "_IFA_BDG_Macchina2_1": 3925780,
+      "_IFA_BDG_Forno3_1": 862229.1859704659,
+      "_IFA_BDG_Forno6_1": 1303348.6386641923,
+      "_ISL_BDG_Macchina1_1": 584000,
+      "_ISL_BDG_Macchina2_1": 4366000,
+      "_ISL_BDG_Forno3_1": 377000,
+      "_ISL_BDG_Forno6_1": 700000,
+      "_IFA_BDG_Macchina1_2": 1137450,
+      "_IFA_BDG_Macchina2_2": 4175460,
+      "_IFA_BDG_Forno3_2": 985852.5592423554,
+      "_IFA_BDG_Forno6_2": 1342324.4423897716,
+      "_ISL_BDG_Macchina1_2": 589000,
+      "_ISL_BDG_Macchina2_2": 4588000,
+      "_ISL_BDG_Forno3_2": 435000,
+      "_ISL_BDG_Forno6_2": 724000,
+      "_IFA_BDG_Macchina1_3": 1082433.3333333335,
+      "_IFA_BDG_Macchina2_3": 4054362.6666666674,
+      "_IFA_BDG_Forno3_3": 998493.1206538349,
+      "_IFA_BDG_Forno6_3": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_3": 583333.3333333334,
+      "_ISL_BDG_Macchina2_3": 4386666.666666666,
+      "_ISL_BDG_Forno3_3": 441000,
+      "_ISL_BDG_Forno6_3": 656000,
+      "_IFA_BDG_Macchina1_4": 1159750,
+      "_IFA_BDG_Macchina2_4": 4343960,
+      "_IFA_BDG_Forno3_4": 998493.1206538349,
+      "_IFA_BDG_Forno6_4": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_4": 625000,
+      "_ISL_BDG_Macchina2_4": 4700000,
+      "_ISL_BDG_Forno3_4": 441000,
+      "_ISL_BDG_Forno6_4": 656000,
+      "_IFA_BDG_Macchina1_5": 1121091.6666666665,
+      "_IFA_BDG_Macchina2_5": 4199161.333333333,
+      "_IFA_BDG_Forno3_5": 998493.1206538349,
+      "_IFA_BDG_Forno6_5": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_5": 604166.6666666666,
+      "_ISL_BDG_Macchina2_5": 4543333.333333334,
+      "_ISL_BDG_Forno3_5": 441000,
+      "_ISL_BDG_Forno6_5": 656000,
+      "_IFA_BDG_Macchina1_6": 1198408.3333333335,
+      "_IFA_BDG_Macchina2_6": 4488758.666666667,
+      "_IFA_BDG_Forno3_6": 998493.1206538349,
+      "_IFA_BDG_Forno6_6": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_6": 645833.3333333335,
+      "_ISL_BDG_Macchina2_6": 4856666.666666666,
+      "_ISL_BDG_Forno3_6": 441000,
+      "_ISL_BDG_Forno6_6": 656000,
+      "_IFA_BDG_Macchina1_7": 579875,
+      "_IFA_BDG_Macchina2_7": 2171980,
+      "_IFA_BDG_Forno3_7": 998493.1206538349,
+      "_IFA_BDG_Forno6_7": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_7": 312500,
+      "_ISL_BDG_Macchina2_7": 2350000,
+      "_ISL_BDG_Forno3_7": 441000,
+      "_ISL_BDG_Forno6_7": 656000,
+      "_IFA_BDG_Macchina1_8": 1159750,
+      "_IFA_BDG_Macchina2_8": 4343960,
+      "_IFA_BDG_Forno3_8": 998493.1206538349,
+      "_IFA_BDG_Forno6_8": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_8": 625000,
+      "_ISL_BDG_Macchina2_8": 4700000,
+      "_ISL_BDG_Forno3_8": 441000,
+      "_ISL_BDG_Forno6_8": 656000,
+      "_IFA_BDG_Macchina1_9": 1198408.3333333335,
+      "_IFA_BDG_Macchina2_9": 4488758.666666667,
+      "_IFA_BDG_Forno3_9": 998493.1206538349,
+      "_IFA_BDG_Forno6_9": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_9": 645833.3333333335,
+      "_ISL_BDG_Macchina2_9": 4856666.666666666,
+      "_ISL_BDG_Forno3_9": 441000,
+      "_ISL_BDG_Forno6_9": 656000,
+      "_IFA_BDG_Macchina1_10": 1121091.6666666665,
+      "_IFA_BDG_Macchina2_10": 4199161.333333333,
+      "_IFA_BDG_Forno3_10": 998493.1206538349,
+      "_IFA_BDG_Forno6_10": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_10": 604166.6666666666,
+      "_ISL_BDG_Macchina2_10": 4543333.333333334,
+      "_ISL_BDG_Forno3_10": 441000,
+      "_ISL_BDG_Forno6_10": 656000,
+      "_IFA_BDG_Macchina1_11": 889141.6666666667,
+      "_IFA_BDG_Macchina2_11": 3330369.333333333,
+      "_IFA_BDG_Forno3_11": 998493.1206538349,
+      "_IFA_BDG_Forno6_11": 1290316.2872845333,
+      "_ISL_BDG_Macchina1_11": 479166.6666666667,
+      "_ISL_BDG_Macchina2_11": 3603333.3333333335,
+      "_ISL_BDG_Forno3_11": 441000,
+      "_ISL_BDG_Forno6_11": 656000,
+      "_IFA_BDG_Macchina1_12": 2137192.295979313,
+      "_IFA_BDG_Macchina2_12": 4357110.911741747,
+      "_IFA_BDG_Forno6_12": 1662398.2086572736,
+      "_ISL_BDG_Macchina1_12": 1264454.545454545,
+      "_ISL_BDG_Macchina2_12": 4589727.272727274,
+      "_ISL_BDG_Forno6_12": 786000,
+      "_IFA_BDG_Macchina1_13": 2137192.295979313,
+      "_IFA_BDG_Macchina2_13": 4357110.911741747,
+      "_IFA_BDG_Forno6_13": 1662398.2086572736,
+      "_ISL_BDG_Macchina1_13": 1264454.545454545,
+      "_ISL_BDG_Macchina2_13": 4589727.272727274,
+      "_ISL_BDG_Forno6_13": 786000,
+      "_IFA_BDG_Macchina1_14": 2137192.295979313,
+      "_IFA_BDG_Macchina2_14": 4357110.911741747,
+      "_IFA_BDG_Forno6_14": 1662398.2086572736,
+      "_ISL_BDG_Macchina1_14": 1264454.545454545,
+      "_ISL_BDG_Macchina2_14": 4589727.272727274,
+      "_ISL_BDG_Forno6_14": 786000,
+      "_IFA_BDG_Macchina1_15": 2137192.295979313,
+      "_IFA_BDG_Macchina2_15": 4357110.911741747,
+      "_IFA_BDG_Forno6_15": 1662398.2086572736,
+      "_ISL_BDG_Macchina1_15": 1264454.545454545,
+      "_ISL_BDG_Macchina2_15": 4589727.272727274,
+      "_ISL_BDG_Forno6_15": 786000,
+      "_IFA_BDG_Macchina1_16": 2137192.295979313,
+      "_IFA_BDG_Macchina2_16": 4357110.911741747,
+      "_IFA_BDG_Forno6_16": 1662398.2086572736,
+      "_ISL_BDG_Macchina1_16": 1264454.545454545,
+      "_ISL_BDG_Macchina2_16": 4589727.272727274,
+      "_ISL_BDG_Forno6_16": 786000,
+      "_IFA_BDG_Macchina1_17": 2137192.295979313,
+      "_IFA_BDG_Macchina2_17": 4357110.911741747,
+      "_IFA_BDG_Forno6_17": 1662398.2086572736,
+      "_ISL_BDG_Macchina1_17": 1264454.545454545,
+      "_ISL_BDG_Macchina2_17": 4589727.272727274,
+      "_ISL_BDG_Forno6_17": 786000,
       "OTD": 0,
       "_LT_FORNITORI": {
         "0": {
@@ -6179,7 +7334,8 @@
             75,
             76,
             122,
-            122
+            122,
+            124
           ],
           "GP HARMON RECYCLING LLC": [
             45,
@@ -6393,7 +7549,11 @@
             75,
             77,
             93,
-            95
+            95,
+            109,
+            101,
+            115,
+            117
           ],
           "DS SMITH RECYCLING ITALIA S.R.L.": [
             -26,
@@ -6557,7 +7717,11 @@
             46,
             51,
             52,
-            53
+            53,
+            92,
+            92,
+            93,
+            93
           ],
           "PRIMAX S.R.L. US": [
             36
@@ -6850,7 +8014,8 @@
             36,
             66,
             67,
-            81
+            81,
+            109
           ],
           "GP HARMON RECYCLING LLC": [
             33,
@@ -6875,7 +8040,24 @@
             54,
             54,
             55,
-            69
+            69,
+            73,
+            87,
+            87,
+            74,
+            74,
+            88,
+            75,
+            76,
+            77,
+            81,
+            81,
+            82,
+            84,
+            87,
+            87,
+            87,
+            88
           ],
           "I.F.P. FOREST AND PAPER PRODUCTS": [
             54,
@@ -7021,7 +8203,10 @@
           "KSB SPOL SRO": [
             -3,
             -3,
-            18
+            18,
+            52,
+            53,
+            66
           ],
           "RELIFE RECYCLING S.R.L.": [
             -23,
@@ -7032,7 +8217,8 @@
             -10,
             -9,
             -4,
-            3
+            3,
+            37
           ],
           "NOVAPEX SAS": [
             0,
@@ -7128,7 +8314,8 @@
             -12,
             -11,
             -5,
-            -4
+            -4,
+            43
           ],
           "WM-RECYCLE AMERICA L.L.C.": [
             12,
@@ -7154,7 +8341,40 @@
             40,
             46,
             41,
-            46
+            46,
+            47,
+            42,
+            48,
+            53,
+            55,
+            54,
+            54,
+            59,
+            59,
+            54,
+            60,
+            60,
+            60,
+            56,
+            61,
+            62,
+            62,
+            62,
+            63,
+            63,
+            66,
+            67,
+            61,
+            68,
+            62,
+            63,
+            66,
+            67,
+            67,
+            68,
+            69,
+            70,
+            73
           ]
         },
         "17": {
@@ -7240,7 +8460,8 @@
             3,
             3,
             4,
-            18
+            18,
+            11
           ],
           "RELIFE RECYCLING S.R.L.": [
             -26,
@@ -7266,7 +8487,8 @@
             -11,
             -6,
             -4,
-            -4
+            -4,
+            1
           ],
           "AZ CHIMICA SRL": [
             0,
@@ -7296,7 +8518,8 @@
             -7,
             -6,
             -1,
-            0
+            0,
+            1
           ],
           "WM-RECYCLE AMERICA L.L.C.": [
             -8,
@@ -7311,7 +8534,11 @@
             5,
             6,
             9,
-            9
+            9,
+            17,
+            18,
+            19,
+            19
           ],
           "DS SMITH RECYCLING ITALIA S.R.L.": [
             -15,
@@ -7331,13 +8558,27 @@
             -4,
             -4,
             -1,
-            0
+            0,
+            1,
+            1,
+            1,
+            2,
+            3,
+            3,
+            3,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10
           ],
           "EUROPEXCHEMICALS S.R.L.": [
             -13,
             -12,
             -6,
-            -6
+            -6,
+            1
           ],
           "WAGGERYD CELL AB": [
             -12,
@@ -7350,10 +8591,39 @@
             -4,
             -4,
             3,
-            3
+            3,
+            5
           ],
           "ARPADIS BENELUX NV": [
             0
+          ],
+          "GP HARMON RECYCLING LLC": [
+            13,
+            16,
+            18,
+            19,
+            25,
+            26,
+            27,
+            31,
+            32,
+            32,
+            33,
+            33,
+            34,
+            34,
+            34,
+            37,
+            38,
+            39,
+            39,
+            40,
+            41,
+            41,
+            44
+          ],
+          "KSB SPOL SRO": [
+            36
           ]
         }
       },
@@ -7364,14 +8634,14 @@
           "n": 5
         },
         {
-          "fornitore": "WM-RECYCLE AMERICA L.L.C.",
-          "media": 32,
-          "n": 266
+          "fornitore": "GP HARMON RECYCLING LLC",
+          "media": 35,
+          "n": 462
         },
         {
-          "fornitore": "GP HARMON RECYCLING LLC",
-          "media": 30.1,
-          "n": 385
+          "fornitore": "WM-RECYCLE AMERICA L.L.C.",
+          "media": 33.3,
+          "n": 276
         },
         {
           "fornitore": "ALSECO S.R.L.",
@@ -7414,6 +8684,11 @@
           "n": 116
         },
         {
+          "fornitore": "KSB SPOL SRO",
+          "media": 5,
+          "n": 80
+        },
+        {
           "fornitore": "INTERNATIONAL FOREST PRODUCTS LLC",
           "media": 5,
           "n": 1
@@ -7449,14 +8724,9 @@
           "n": 11
         },
         {
-          "fornitore": "KSB SPOL SRO",
-          "media": 2.5,
-          "n": 76
-        },
-        {
           "fornitore": "IMIFABI SPA",
           "media": 1.2,
-          "n": 157
+          "n": 158
         },
         {
           "fornitore": "NOVAPEX SAS",
@@ -7467,6 +8737,11 @@
           "fornitore": "METMED S.r.l.",
           "media": 0.9,
           "n": 7
+        },
+        {
+          "fornitore": "L'APROCHIMIDE S.R.L.",
+          "media": 0.8,
+          "n": 26
         },
         {
           "fornitore": "ALDER SPA",
@@ -7509,14 +8784,9 @@
           "n": 11
         },
         {
-          "fornitore": "L'APROCHIMIDE S.R.L.",
-          "media": -0.8,
-          "n": 25
-        },
-        {
           "fornitore": "EUROPEXCHEMICALS S.R.L.",
           "media": -1.9,
-          "n": 136
+          "n": 137
         },
         {
           "fornitore": "FORNAROLI CARTA SPA",
@@ -7524,19 +8794,19 @@
           "n": 84
         },
         {
+          "fornitore": "WAGGERYD CELL AB",
+          "media": -4.2,
+          "n": 168
+        },
+        {
           "fornitore": "TRONOX PIGMENT UK HOLLAND B.V.",
           "media": -4.2,
           "n": 5
         },
         {
-          "fornitore": "WAGGERYD CELL AB",
-          "media": -4.3,
-          "n": 167
-        },
-        {
           "fornitore": "DS SMITH RECYCLING ITALIA S.R.L.",
-          "media": -4.7,
-          "n": 541
+          "media": -4.5,
+          "n": 554
         },
         {
           "fornitore": "RIEXO S.P.A.",
@@ -7545,13 +8815,13 @@
         },
         {
           "fornitore": "RELIFE RECYCLING S.R.L.",
-          "media": -7.5,
-          "n": 84
+          "media": -7,
+          "n": 85
         },
         {
           "fornitore": "CITTI MACERI FALESA SRL",
           "media": -7.7,
-          "n": 285
+          "n": 286
         },
         {
           "fornitore": "GV MACERO S.P.A.",
@@ -7560,8 +8830,8 @@
         },
         {
           "fornitore": "IMBALLAGGI PIEMONTESI S.R.L",
-          "media": -11.3,
-          "n": 139
+          "media": -11.2,
+          "n": 140
         },
         {
           "fornitore": "SMURFIT WESTROCK RECOVERED FIBER",
@@ -7623,6 +8893,22 @@
         {
           "label": "29 06 26",
           "value": 1
+        },
+        {
+          "label": "06 07 26",
+          "value": 0.97
+        },
+        {
+          "label": "13 07 26",
+          "value": 0.9
+        },
+        {
+          "label": "20 07 26",
+          "value": 0.93
+        },
+        {
+          "label": "27 07 26",
+          "value": 0.98
         }
       ],
       "_DER_SERIES": [
@@ -7669,1195 +8955,30 @@
         {
           "label": "29 06 26",
           "value": 0.99
+        },
+        {
+          "label": "06 07 26",
+          "value": 0.95
+        },
+        {
+          "label": "13 07 26",
+          "value": 0.94
+        },
+        {
+          "label": "20 07 26",
+          "value": 0.91
+        },
+        {
+          "label": "27 07 26",
+          "value": 1.04
         }
       ],
-      "INC": 0.2,
-      "_DSO_DEN": 45361740.55999999,
-      "_INC_CLIENTI": [
-        {
-          "customer": "ABET LAMINATI SPA",
-          "fatturato": 7568724.54,
-          "isNew": false
-        },
-        {
-          "customer": "ARPA INDUSTRIALE SPA",
-          "fatturato": 5965631.9,
-          "isNew": false
-        },
-        {
-          "customer": "ASD LAMINAT.A.S.",
-          "fatturato": 4796736.08,
-          "isNew": false
-        },
-        {
-          "customer": "POLYREY SAS",
-          "fatturato": 4198972.15,
-          "isNew": false
-        },
-        {
-          "customer": "CLEAF SPA",
-          "fatturato": 2914960.23,
-          "isNew": false
-        },
-        {
-          "customer": "GENTAS DEKORATIF YUZEYLER SANAYI ve",
-          "fatturato": 2869996.93,
-          "isNew": false
-        },
-        {
-          "customer": "HANS SCHMID KG. GMBH UND CO.",
-          "fatturato": 2466401.24,
-          "isNew": false
-        },
-        {
-          "customer": "UNILIN BVBA",
-          "fatturato": 1989978.28,
-          "isNew": false
-        },
-        {
-          "customer": "LAMICOLOR SPA",
-          "fatturato": 1981633.47,
-          "isNew": false
-        },
-        {
-          "customer": "GREENLAM INDUSTRIES LTD,",
-          "fatturato": 1528613.32,
-          "isNew": false
-        },
-        {
-          "customer": "SM'art S.r.l.",
-          "fatturato": 1517246.86,
-          "isNew": false
-        },
-        {
-          "customer": "FUNDERMAX  GmbH",
-          "fatturato": 1511138.82,
-          "isNew": false
-        },
-        {
-          "customer": "CONSORZIO ENERGY PAPER S.C.A.R.L.",
-          "fatturato": 1079619.42,
-          "isNew": false
-        },
-        {
-          "customer": "TACON DECOR, S.L",
-          "fatturato": 1054945,
-          "isNew": false
-        },
-        {
-          "customer": "PFLEIDERER LEUTKIRCH GMBH",
-          "fatturato": 607984.37,
-          "isNew": false
-        },
-        {
-          "customer": "GRUPPO MAURO SAVIOLA srl",
-          "fatturato": 520693.7,
-          "isNew": false
-        },
-        {
-          "customer": "PFLEIDERER ARNSBERG GMBH",
-          "fatturato": 427585.95,
-          "isNew": false
-        },
-        {
-          "customer": "D.TRADING D.O.O.",
-          "fatturato": 370839.75,
-          "isNew": false
-        },
-        {
-          "customer": "LA-CON SPA",
-          "fatturato": 327936.49,
-          "isNew": false
-        },
-        {
-          "customer": "PURICELLI S.R.L.",
-          "fatturato": 306856.1,
-          "isNew": false
-        },
-        {
-          "customer": "FORMICA LIMITED",
-          "fatturato": 266295.75,
-          "isNew": false
-        },
-        {
-          "customer": "FILIPPI 1971 SRL",
-          "fatturato": 216018.27,
-          "isNew": false
-        },
-        {
-          "customer": "NEODECORTECH SPA",
-          "fatturato": 215071.4,
-          "isNew": false
-        },
-        {
-          "customer": "DI Dekodur International GmbH & Co.",
-          "fatturato": 208979.2,
-          "isNew": false
-        },
-        {
-          "customer": "MADERAS MEJORADAS INDUSTRIAL S.A.U.",
-          "fatturato": 120444.91,
-          "isNew": false
-        },
-        {
-          "customer": "EGGER HOLZWERKSTOFFE WISMAR",
-          "fatturato": 113911.05,
-          "isNew": false
-        },
-        {
-          "customer": "Pinelake Dis Ticaret Limited",
-          "fatturato": 111882.6,
-          "isNew": false
-        },
-        {
-          "customer": "SURFORMA, S.A.",
-          "fatturato": 106899.65,
-          "isNew": false
-        },
-        {
-          "customer": "CENTURY PANELS LIMITED",
-          "fatturato": 104829.45,
-          "isNew": false
-        },
-        {
-          "customer": "CESAPLAST SPA",
-          "fatturato": 101665.36,
-          "isNew": false
-        },
-        {
-          "customer": "GREENLAM LIMITED, PLOT NO.19,19A,",
-          "fatturato": 93941.25,
-          "isNew": false
-        },
-        {
-          "customer": "WESTAG AG",
-          "fatturato": 92102,
-          "isNew": false
-        },
-        {
-          "customer": "MELATONE LTD.",
-          "fatturato": 78905.64,
-          "isNew": false
-        },
-        {
-          "customer": "F I N S A",
-          "fatturato": 76376.78,
-          "isNew": false
-        },
-        {
-          "customer": "PELIT ARSLAN KONTRPLAK FABRIKASI",
-          "fatturato": 75602.38,
-          "isNew": false
-        },
-        {
-          "customer": "GREENPANEL INDUSTRIES LTD.UNIT-II,",
-          "fatturato": 71218.91,
-          "isNew": false
-        },
-        {
-          "customer": "KULSAN MELAMIN PLASTIK SAN.TIC.COME",
-          "fatturato": 65681.36,
-          "isNew": false
-        },
-        {
-          "customer": "ALTEA CAR DI PALMIERE MARCO",
-          "fatturato": 61351.1,
-          "isNew": false
-        },
-        {
-          "customer": "EGGER PANNEAUX & DECORS S.A.S",
-          "fatturato": 60877.48,
-          "isNew": false
-        },
-        {
-          "customer": "CROWN DECOR PVT LTD.",
-          "fatturato": 54965.44,
-          "isNew": false
-        },
-        {
-          "customer": "ROLKEM",
-          "fatturato": 50767.37,
-          "isNew": false
-        },
-        {
-          "customer": "SIME ENERGIA S.R.L.",
-          "fatturato": 49215,
-          "isNew": false
-        },
-        {
-          "customer": "KOKUSAI PULP&PAPER CO., LTD",
-          "fatturato": 43997.8,
-          "isNew": false
-        },
-        {
-          "customer": "BARTOLI S.P.A.",
-          "fatturato": 43235.35,
-          "isNew": false
-        },
-        {
-          "customer": "GRUPO ALVIC FR MOBILIARIO SL",
-          "fatturato": 39975.25,
-          "isNew": false
-        },
-        {
-          "customer": "TURIN CARTA SRL",
-          "fatturato": 36804.38,
-          "isNew": false
-        },
-        {
-          "customer": "LAMTUF LIMITED",
-          "fatturato": 36168.71,
-          "isNew": false
-        },
-        {
-          "customer": "TRESPA INTERNATIONAL BV",
-          "fatturato": 34052.4,
-          "isNew": false
-        },
-        {
-          "customer": "GUANGZHOU G AND P NEW COMPOSITE",
-          "fatturato": 29136.74,
-          "isNew": true
-        },
-        {
-          "customer": "ZHEJIANG REXIN DECOR.MATERIAL.CO.",
-          "fatturato": 28918.53,
-          "isNew": true
-        },
-        {
-          "customer": "PT.TACO ANUGRAH CORPORINDO KAWASAN",
-          "fatturato": 28364.5,
-          "isNew": true
-        },
-        {
-          "customer": "CHIMICA POMPONESCO SPA",
-          "fatturato": 27960.5,
-          "isNew": false
-        },
-        {
-          "customer": "SHANGHAI FORMICA DECO MAT CO.",
-          "fatturato": 27680.51,
-          "isNew": false
-        },
-        {
-          "customer": "SHANGHAI EAST BEST FOREIGN TRADE",
-          "fatturato": 27241.25,
-          "isNew": false
-        },
-        {
-          "customer": "LOMBARDO SPA",
-          "fatturato": 27221.45,
-          "isNew": false
-        },
-        {
-          "customer": "SURFACTOR GERMANY GMBH",
-          "fatturato": 26010.4,
-          "isNew": false
-        },
-        {
-          "customer": "RESOPAL GmbH",
-          "fatturato": 23040.84,
-          "isNew": false
-        },
-        {
-          "customer": "SAFER GROUP SRL",
-          "fatturato": 21112.2,
-          "isNew": false
-        },
-        {
-          "customer": "SUNFLOWER CORPORATION",
-          "fatturato": 16761.64,
-          "isNew": true
-        },
-        {
-          "customer": "DAESHIN MELAMINE INDUSTRIAL CO.,LTD",
-          "fatturato": 16309.12,
-          "isNew": false
-        },
-        {
-          "customer": "JIANGSU BODA NEW MATERIALS TECHNOLO",
-          "fatturato": 14760.9,
-          "isNew": false
-        },
-        {
-          "customer": "Lignadecor Uretim ve Pazarlama A.S.",
-          "fatturato": 11251.73,
-          "isNew": false
-        },
-        {
-          "customer": "DECOR IN PRINTING SPA",
-          "fatturato": 10001.61,
-          "isNew": false
-        },
-        {
-          "customer": "SRT ITALIA",
-          "fatturato": 8259.84,
-          "isNew": false
-        },
-        {
-          "customer": "TRE EMME Srl",
-          "fatturato": 4117.7,
-          "isNew": false
-        },
-        {
-          "customer": "INFRASTRUTTURE WIRELESS ITALIANE",
-          "fatturato": 4000,
-          "isNew": false
-        },
-        {
-          "customer": "SURFACTOR ASIA PACIFIC SDN.BHD.",
-          "fatturato": 3643.85,
-          "isNew": false
-        },
-        {
-          "customer": "VIRGO LAMINATES LIMITED",
-          "fatturato": 3010.38,
-          "isNew": false
-        },
-        {
-          "customer": "SWISS KRONO AG",
-          "fatturato": 2035.8,
-          "isNew": false
-        },
-        {
-          "customer": "NUOVA CRUMIERE S.C.P.A.",
-          "fatturato": 1500,
-          "isNew": true
-        },
-        {
-          "customer": "OVERMADE SRL",
-          "fatturato": 1454,
-          "isNew": false
-        },
-        {
-          "customer": "WELCOME SRL",
-          "fatturato": 500,
-          "isNew": false
-        },
-        {
-          "customer": "AUTOTRASPORTI DI LALIC SINISA",
-          "fatturato": 125,
-          "isNew": false
-        },
-        {
-          "customer": "NIKKA ROSE LAPITAN",
-          "fatturato": 100,
-          "isNew": false
-        },
-        {
-          "customer": "MASSARENTI EBER",
-          "fatturato": 50,
-          "isNew": false
-        },
-        {
-          "customer": "CHIODO S.A.S. DI CHIODO ANGELO",
-          "fatturato": 25,
-          "isNew": false
-        },
-        {
-          "customer": "MARTINETTO PALLETS",
-          "fatturato": 1,
-          "isNew": false
-        },
-        {
-          "customer": "COMOLI FERRARI & C. S.P.A.",
-          "fatturato": 1,
-          "isNew": false
-        },
-        {
-          "customer": "FILP S.R.L.",
-          "fatturato": 0,
-          "isNew": true
-        },
-        {
-          "customer": "SWISS KRONO SP.Z0.0.",
-          "fatturato": 0,
-          "isNew": false
-        },
-        {
-          "customer": "ALMILL DOO MILICI, BIH",
-          "fatturato": 0,
-          "isNew": false
-        },
-        {
-          "customer": "CAMBRO OZAY PLASTIK SAN.VE TIC.A.S.",
-          "fatturato": 0,
-          "isNew": false
-        }
-      ],
-      "_DSO_FAT_CLIENT": {
-        "ABET LAMINATI SPA": 7568724.54,
-        "ARPA INDUSTRIALE SPA": 5965631.9,
-        "CESAPLAST SPA": 101665.36,
-        "LAMICOLOR SPA": 1981633.47,
-        "LOMBARDO SPA": 27221.45,
-        "PURICELLI S.R.L.": 306856.1,
-        "LA-CON SPA": 327936.49,
-        "CLEAF SPA": 2914960.23,
-        "CHIMICA POMPONESCO SPA": 27960.5,
-        "DECOR IN PRINTING SPA": 10001.61,
-        "GRUPPO MAURO SAVIOLA srl": 520693.7,
-        "BARTOLI S.P.A.": 43235.35,
-        "TRE EMME Srl": 4117.7,
-        "TURIN CARTA SRL": 36804.38,
-        "SM'art S.r.l.": 1517246.86,
-        "MARTINETTO PALLETS": 1,
-        "NEODECORTECH SPA": 215071.4,
-        "CONSORZIO ENERGY PAPER S.C.A.R.L.": 1079619.42,
-        "SIME ENERGIA S.R.L.": 49215,
-        "INFRASTRUTTURE WIRELESS ITALIANE": 4000,
-        "SAFER GROUP SRL": 21112.2,
-        "FILIPPI 1971 SRL": 216018.27,
-        "ALTEA CAR DI PALMIERE MARCO": 61351.1,
-        "NIKKA ROSE LAPITAN": 100,
-        "NUOVA CRUMIERE S.C.P.A.": 1500,
-        "AUTOTRASPORTI DI LALIC SINISA": 125,
-        "MASSARENTI EBER": 50,
-        "CHIODO S.A.S. DI CHIODO ANGELO": 25,
-        "WELCOME SRL": 500,
-        "OVERMADE SRL": 1454,
-        "COMOLI FERRARI & C. S.P.A.": 1,
-        "SRT ITALIA": 8259.84,
-        "FUNDERMAX  GmbH": 1511138.82,
-        "UNILIN BVBA": 1989978.28,
-        "SWISS KRONO AG": 2035.8,
-        "GUANGZHOU G AND P NEW COMPOSITE": 29136.74,
-        "SHANGHAI FORMICA DECO MAT CO.": 27680.51,
-        "ZHEJIANG REXIN DECOR.MATERIAL.CO.": 28918.53,
-        "JIANGSU BODA NEW MATERIALS TECHNOLO": 14760.9,
-        "SHANGHAI EAST BEST FOREIGN TRADE": 27241.25,
-        "DI Dekodur International GmbH & Co.": 208979.2,
-        "HANS SCHMID KG. GMBH UND CO.": 2466401.24,
-        "WESTAG AG": 92102,
-        "RESOPAL GmbH": 23040.84,
-        "EGGER HOLZWERKSTOFFE WISMAR": 113911.05,
-        "PFLEIDERER LEUTKIRCH GMBH": 607984.37,
-        "PFLEIDERER ARNSBERG GMBH": 427585.95,
-        "SURFACTOR GERMANY GMBH": 26010.4,
-        "F I N S A": 76376.78,
-        "MADERAS MEJORADAS INDUSTRIAL S.A.U.": 120444.91,
-        "TACON DECOR, S.L": 1054945,
-        "GRUPO ALVIC FR MOBILIARIO SL": 39975.25,
-        "ROLKEM": 50767.37,
-        "POLYREY SAS": 4198972.15,
-        "EGGER PANNEAUX & DECORS S.A.S": 60877.48,
-        "FORMICA LIMITED": 266295.75,
-        "D.TRADING D.O.O.": 370839.75,
-        "PT.TACO ANUGRAH CORPORINDO KAWASAN": 28364.5,
-        "LAMTUF LIMITED": 36168.71,
-        "GREENPANEL INDUSTRIES LTD.UNIT-II,": 71218.91,
-        "GREENLAM INDUSTRIES LTD,": 1528613.32,
-        "CROWN DECOR PVT LTD.": 54965.44,
-        "GREENLAM LIMITED, PLOT NO.19,19A,": 93941.25,
-        "CENTURY PANELS LIMITED": 104829.45,
-        "VIRGO LAMINATES LIMITED": 3010.38,
-        "KOKUSAI PULP&PAPER CO., LTD": 43997.8,
-        "MELATONE LTD.": 78905.64,
-        "DAESHIN MELAMINE INDUSTRIAL CO.,LTD": 16309.12,
-        "SURFACTOR ASIA PACIFIC SDN.BHD.": 3643.85,
-        "TRESPA INTERNATIONAL BV": 34052.4,
-        "SURFORMA, S.A.": 106899.65,
-        "SUNFLOWER CORPORATION": 16761.64,
-        "GENTAS DEKORATIF YUZEYLER SANAYI ve": 2869996.93,
-        "PELIT ARSLAN KONTRPLAK FABRIKASI": 75602.38,
-        "KULSAN MELAMIN PLASTIK SAN.TIC.COME": 65681.36,
-        "ASD LAMINAT.A.S.": 4796736.08,
-        "Lignadecor Uretim ve Pazarlama A.S.": 11251.73,
-        "Pinelake Dis Ticaret Limited": 111882.6
-      },
-      "_IFA_BDG_Macchina1_0": 1638030,
-      "_IFA_BDG_Macchina2_0": 3277720,
-      "_IFA_BDG_Forno3_0": 813322.9085208217,
-      "_IFA_BDG_Forno6_0": 1139996.0041773226,
-      "_ISL_BDG_Macchina1_0": 849000,
-      "_ISL_BDG_Macchina2_0": 3658000,
-      "_ISL_BDG_Forno3_0": 354000,
-      "_ISL_BDG_Forno6_0": 616000,
-      "_IFA_BDG_Macchina1_1": 1122790,
-      "_IFA_BDG_Macchina2_1": 3925780,
-      "_IFA_BDG_Forno3_1": 862229.1859704659,
-      "_IFA_BDG_Forno6_1": 1303348.6386641923,
-      "_ISL_BDG_Macchina1_1": 584000,
-      "_ISL_BDG_Macchina2_1": 4366000,
-      "_ISL_BDG_Forno3_1": 377000,
-      "_ISL_BDG_Forno6_1": 700000,
-      "_IFA_BDG_Macchina1_2": 1137450,
-      "_IFA_BDG_Macchina2_2": 4175460,
-      "_IFA_BDG_Forno3_2": 985852.5592423554,
-      "_IFA_BDG_Forno6_2": 1342324.4423897716,
-      "_ISL_BDG_Macchina1_2": 589000,
-      "_ISL_BDG_Macchina2_2": 4588000,
-      "_ISL_BDG_Forno3_2": 435000,
-      "_ISL_BDG_Forno6_2": 724000,
-      "_IFA_BDG_Macchina1_3": 1082433.3333333335,
-      "_IFA_BDG_Macchina2_3": 4054362.6666666674,
-      "_IFA_BDG_Forno3_3": 998493.1206538349,
-      "_IFA_BDG_Forno6_3": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_3": 583333.3333333334,
-      "_ISL_BDG_Macchina2_3": 4386666.666666666,
-      "_ISL_BDG_Forno3_3": 441000,
-      "_ISL_BDG_Forno6_3": 656000,
-      "_IFA_BDG_Macchina1_4": 1159750,
-      "_IFA_BDG_Macchina2_4": 4343960,
-      "_IFA_BDG_Forno3_4": 998493.1206538349,
-      "_IFA_BDG_Forno6_4": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_4": 625000,
-      "_ISL_BDG_Macchina2_4": 4700000,
-      "_ISL_BDG_Forno3_4": 441000,
-      "_ISL_BDG_Forno6_4": 656000,
-      "_IFA_BDG_Macchina1_5": 1121091.6666666665,
-      "_IFA_BDG_Macchina2_5": 4199161.333333333,
-      "_IFA_BDG_Forno3_5": 998493.1206538349,
-      "_IFA_BDG_Forno6_5": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_5": 604166.6666666666,
-      "_ISL_BDG_Macchina2_5": 4543333.333333334,
-      "_ISL_BDG_Forno3_5": 441000,
-      "_ISL_BDG_Forno6_5": 656000,
-      "_IFA_BDG_Macchina1_6": 1198408.3333333335,
-      "_IFA_BDG_Macchina2_6": 4488758.666666667,
-      "_IFA_BDG_Forno3_6": 998493.1206538349,
-      "_IFA_BDG_Forno6_6": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_6": 645833.3333333335,
-      "_ISL_BDG_Macchina2_6": 4856666.666666666,
-      "_ISL_BDG_Forno3_6": 441000,
-      "_ISL_BDG_Forno6_6": 656000,
-      "_IFA_BDG_Macchina1_7": 579875,
-      "_IFA_BDG_Macchina2_7": 2171980,
-      "_IFA_BDG_Forno3_7": 998493.1206538349,
-      "_IFA_BDG_Forno6_7": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_7": 312500,
-      "_ISL_BDG_Macchina2_7": 2350000,
-      "_ISL_BDG_Forno3_7": 441000,
-      "_ISL_BDG_Forno6_7": 656000,
-      "_IFA_BDG_Macchina1_8": 1159750,
-      "_IFA_BDG_Macchina2_8": 4343960,
-      "_IFA_BDG_Forno3_8": 998493.1206538349,
-      "_IFA_BDG_Forno6_8": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_8": 625000,
-      "_ISL_BDG_Macchina2_8": 4700000,
-      "_ISL_BDG_Forno3_8": 441000,
-      "_ISL_BDG_Forno6_8": 656000,
-      "_IFA_BDG_Macchina1_9": 1198408.3333333335,
-      "_IFA_BDG_Macchina2_9": 4488758.666666667,
-      "_IFA_BDG_Forno3_9": 998493.1206538349,
-      "_IFA_BDG_Forno6_9": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_9": 645833.3333333335,
-      "_ISL_BDG_Macchina2_9": 4856666.666666666,
-      "_ISL_BDG_Forno3_9": 441000,
-      "_ISL_BDG_Forno6_9": 656000,
-      "_IFA_BDG_Macchina1_10": 1121091.6666666665,
-      "_IFA_BDG_Macchina2_10": 4199161.333333333,
-      "_IFA_BDG_Forno3_10": 998493.1206538349,
-      "_IFA_BDG_Forno6_10": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_10": 604166.6666666666,
-      "_ISL_BDG_Macchina2_10": 4543333.333333334,
-      "_ISL_BDG_Forno3_10": 441000,
-      "_ISL_BDG_Forno6_10": 656000,
-      "_IFA_BDG_Macchina1_11": 889141.6666666667,
-      "_IFA_BDG_Macchina2_11": 3330369.333333333,
-      "_IFA_BDG_Forno3_11": 998493.1206538349,
-      "_IFA_BDG_Forno6_11": 1290316.2872845333,
-      "_ISL_BDG_Macchina1_11": 479166.6666666667,
-      "_ISL_BDG_Macchina2_11": 3603333.3333333335,
-      "_ISL_BDG_Forno3_11": 441000,
-      "_ISL_BDG_Forno6_11": 656000,
-      "_IFA_BDG_Macchina1_12": 2137192.295979313,
-      "_IFA_BDG_Macchina2_12": 4357110.911741747,
-      "_IFA_BDG_Forno6_12": 1662398.2086572736,
-      "_ISL_BDG_Macchina1_12": 1264454.545454545,
-      "_ISL_BDG_Macchina2_12": 4589727.272727274,
-      "_ISL_BDG_Forno6_12": 786000,
-      "_IFA_BDG_Macchina1_13": 2137192.295979313,
-      "_IFA_BDG_Macchina2_13": 4357110.911741747,
-      "_IFA_BDG_Forno6_13": 1662398.2086572736,
-      "_ISL_BDG_Macchina1_13": 1264454.545454545,
-      "_ISL_BDG_Macchina2_13": 4589727.272727274,
-      "_ISL_BDG_Forno6_13": 786000,
-      "_IFA_BDG_Macchina1_14": 2137192.295979313,
-      "_IFA_BDG_Macchina2_14": 4357110.911741747,
-      "_IFA_BDG_Forno6_14": 1662398.2086572736,
-      "_ISL_BDG_Macchina1_14": 1264454.545454545,
-      "_ISL_BDG_Macchina2_14": 4589727.272727274,
-      "_ISL_BDG_Forno6_14": 786000,
-      "_IFA_BDG_Macchina1_15": 2137192.295979313,
-      "_IFA_BDG_Macchina2_15": 4357110.911741747,
-      "_IFA_BDG_Forno6_15": 1662398.2086572736,
-      "_ISL_BDG_Macchina1_15": 1264454.545454545,
-      "_ISL_BDG_Macchina2_15": 4589727.272727274,
-      "_ISL_BDG_Forno6_15": 786000,
-      "_IFA_BDG_Macchina1_16": 2137192.295979313,
-      "_IFA_BDG_Macchina2_16": 4357110.911741747,
-      "_IFA_BDG_Forno6_16": 1662398.2086572736,
-      "_ISL_BDG_Macchina1_16": 1264454.545454545,
-      "_ISL_BDG_Macchina2_16": 4589727.272727274,
-      "_ISL_BDG_Forno6_16": 786000,
-      "_IFA_BDG_Macchina1_17": 2137192.295979313,
-      "_IFA_BDG_Macchina2_17": 4357110.911741747,
-      "_IFA_BDG_Forno6_17": 1662398.2086572736,
-      "_ISL_BDG_Macchina1_17": 1264454.545454545,
-      "_ISL_BDG_Macchina2_17": 4589727.272727274,
-      "_ISL_BDG_Forno6_17": 786000,
-      "O.E.E.": 73.4,
-      "O.E.E.(PxQ)": 84,
-      "D": 84.1,
-      "NRFT": 99.1,
-      "_FAC_PREV_13": 65754.39091244664,
-      "_FAC_GCC_PREV_13": 65754.39091244664,
-      "_FAC_PREV_14": 62477.51859811218,
-      "_FAC_GCC_PREV_14": 62477.51859811218,
-      "_FAC_PREV_15": 59059.20293010892,
-      "_FAC_GCC_PREV_15": 59059.20293010892,
-      "_FAC_PREV_16": 61566.88623968525,
-      "_FAC_GCC_PREV_16": 61566.88623968525,
-      "_FAC_PREV_17": 62502.422272078846,
-      "_FAC_GCC_PREV_17": 62502.422272078846,
-      "_FAC_GCC_ART": {
-        "13": {
-          "10010000": 1848.310874171894,
-          "10020000": 3696.621748343788,
-          "10030101": 164.60586737950143,
-          "10050101": 21.696868085106384,
-          "10060101": 2558.81238355485,
-          "10060102": 942.6951896908588,
-          "10080101": 6657.591188358911,
-          "10100101": 9855.301736396566,
-          "10100201": 5349.94723022015,
-          "20010101": 14479.954795737487,
-          "20030101": 15180.177578514167,
-          "30020101": 1553.5721224599508,
-          "30020209": 639.8385919790106,
-          "30020212": 377.076505036955,
-          "30020301": 1318.0602804683524,
-          "30020401": 59.173276595744674,
-          "30020402": 670.1688287382606,
-          "30040307": 1.1773509599999998,
-          "30040316": 0.7232289361702128,
-          "30040401": 28.163483544303794,
-          "30040402": 7.446650632706374,
-          "30040403": 341.46210188235824,
-          "30040405": 0.5562288000000001,
-          "30040510": 1.2568019595820272
-        },
-        "14": {
-          "10010000": 1848.310874171894,
-          "10020000": 3696.621748343788,
-          "10030101": 298.34813462534635,
-          "10050101": 21.696868085106384,
-          "10060101": 3788.670280735958,
-          "10060102": 1708.6350313146818,
-          "10080101": 5351.2271445787865,
-          "10100101": 7828.8467898525405,
-          "10100201": 5341.372282200768,
-          "20010101": 12662.609847893253,
-          "20030101": 13363.885558277982,
-          "30020101": 3121.128499659951,
-          "30020209": 639.8385919790106,
-          "30020212": 377.076505036955,
-          "30020301": 1318.0602804683524,
-          "30020401": 59.173276595744674,
-          "30020402": 670.1688287382606,
-          "30040307": 1.1773509599999998,
-          "30040316": 0.7232289361702128,
-          "30040401": 28.163483544303794,
-          "30040402": 7.446650632706374,
-          "30040403": 342.5243107210352,
-          "30040405": 0.5562288000000001,
-          "30040510": 1.2568019595820272
-        },
-        "15": {
-          "10010000": 854.0754949293344,
-          "10020000": 1708.1509898586687,
-          "10060101": 4026.1296256914743,
-          "10080101": 4335.47479248667,
-          "10100101": 8581.147015156614,
-          "10100201": 6140.928695992085,
-          "20010101": 13610.519752019783,
-          "20030101": 15109.316854048197,
-          "30020101": 2134.537346859951,
-          "30020209": 272.9704537868163,
-          "30020212": 209.70785961538462,
-          "30020301": 570.5824018097961,
-          "30020402": 981.5800367708375,
-          "30040401": 112.89639947979886,
-          "30040402": 0.8176569615384616,
-          "30040403": 410.08360352131507,
-          "30040510": 0.28395112065934064
-        },
-        "16": {
-          "10010000": 1707.0354334658716,
-          "10020000": 3414.0708669317432,
-          "10060101": 3159.771536319773,
-          "10080101": 5892.791731508388,
-          "10100101": 10863.561846058936,
-          "10100201": 2866.30798375853,
-          "20010101": 14187.945536646313,
-          "20030101": 15071.908264513862,
-          "30020101": 1504.200268059951,
-          "30020209": 499.1238932803915,
-          "30020212": 442.13499029028964,
-          "30020301": 1017.9639160317038,
-          "30020402": 676.7630207186606,
-          "30040307": 0.7849006399999999,
-          "30040325": 0.013001282926829269,
-          "30040401": 37.55131139240506,
-          "30040402": 11.137973509591042,
-          "30040403": 208.9364009994237,
-          "30040405": 1.7286396480665125,
-          "30040510": 2.8757621825873763,
-          "30040604": 0.27896244583533947
-        },
-        "17": {
-          "10010000": 1318.7393579595007,
-          "10020000": 2636.2120489056165,
-          "10030101": 251.55861274784485,
-          "10050101": 1330.9533543300638,
-          "10060101": 4201.418339728375,
-          "10070101": 704.7515825008096,
-          "10080101": 4437.294471860303,
-          "10100101": 8587.877320026038,
-          "10100201": 4520.788673378537,
-          "20010101": 14218.87742491947,
-          "20030101": 16163.589132471237,
-          "30020101": 1518.1845228,
-          "30020209": 264.54845832979856,
-          "30020212": 383.25326264013245,
-          "30020301": 787.5674681649507,
-          "30020401": 34.51774468085107,
-          "30020402": 776.1670063777798,
-          "30040307": 1.3735761199999998,
-          "30040316": 0.42188354609929074,
-          "30040325": 0.07645031229467397,
-          "30040401": 73.88597820163488,
-          "30040402": 2.0931650711538463,
-          "30040403": 277.1651115141538,
-          "30040405": 4.4503092651897385,
-          "30040504": 2.2215603074133887,
-          "30040510": 4.40306508585742,
-          "30040604": 0.032390833734939756
-        }
-      },
-      "_FAC_ART_DESC": {
-        "10010000": "FBL",
-        "10020000": "FBC",
-        "10030101": "FLV",
-        "10050101": "CTMP",
-        "10060101": "BCTMP",
-        "10060102": "CTMP-SECCA",
-        "10070101": "AMERICANI",
-        "10080101": "KLB",
-        "10090101": "WHITE TOP",
-        "10100101": "DLK",
-        "10100201": "DLK_B",
-        "20010101": "KSK_A",
-        "20030101": "KSK_C",
-        "30020101": "ALLUMINA",
-        "30020202": "TIO2 SR-2377",
-        "30020203": "TITANIO KRONOS 2800",
-        "30020206": "TITANIO RGLP2",
-        "30020209": "TITANIO TRONOX 722",
-        "30020211": "TITANIO TIOMAC 230 WSB",
-        "30020212": "TITANIO TYR 588",
-        "30020301": "CAOLINO OT 80",
-        "30020401": "TALCO IN SACCHI",
-        "30020402": "TALCO SFUSO",
-        "30040307": "GIALLO FLEXONIL FGL - X",
-        "30040316": "GIALLO PERGASOL S-Z",
-        "30040325": "GIALLO IRGALITE ET",
-        "30040401": "CARBON BLACK",
-        "30040402": "NERO OSSIDO 77",
-        "30040403": "NERO PRINTEX 30",
-        "30040405": "NERO IRGALITE 2B - LN",
-        "30040504": "ROSSO FLEXONIL E 5 B",
-        "30040510": "ROSSO OSSIDO 1020",
-        "30040604": "VERDE T-X",
-        "30110101": "BIANCO FISSO"
-      },
-      "_ISF_ENTRATE": {
-        "12": 7539196,
-        "13": 9304029,
-        "14": 9517855,
-        "15": 8104854,
-        "16": 7158883,
-        "17": 7643575
-      },
-      "_ISF_USCITE": {
-        "12": 11041399.459999999,
-        "13": 5054061,
-        "14": 7296390,
-        "15": 8813463,
-        "16": 5869346,
-        "17": 11067852
-      },
-      "_ISF_DELTA": {
-        "12": -3502203.459999999,
-        "13": 4249968,
-        "14": 2221465,
-        "15": -708609,
-        "16": 1289537,
-        "17": -3424277
-      },
-      "_ISF_ENTRATE_P": {
-        "12": 8251226,
-        "13": 6214562,
-        "14": 6704249,
-        "15": 8702937,
-        "16": 8771793.396844245,
-        "17": 8771794.076836275
-      },
-      "_ISF_USCITE_P": {
-        "12": 9849046,
-        "13": 4757682,
-        "14": 5970215,
-        "15": 8334659,
-        "16": 6697123,
-        "17": 10203099.473360296
-      },
-      "_ISF_DELTA_P": {
-        "12": -1597820,
-        "13": 1456880,
-        "14": 734034,
-        "15": 368278,
-        "16": 2074670.3968442455,
-        "17": -1431305.3965240214
-      },
-      "ISF": -1992971.6,
-      "_TRB_NUM_Macchina1_0": 606537,
-      "TRB": 104.7,
-      "_TRB_NUM_Macchina1_1": 757406,
-      "_TRB_NUM_Macchina1_2": 721000,
-      "_TRB_NUM_Macchina1_3": 573254,
-      "_TRB_NUM_Macchina1_4": 644040,
-      "_TRB_NUM_Macchina1_5": 714858,
-      "_TRB_NUM_Macchina1_6": 843080,
-      "_TRB_NUM_Macchina1_7": 20924,
-      "_TRB_NUM_Macchina1_8": 726541,
-      "_TRB_NUM_Macchina1_9": 875388,
-      "_TRB_NUM_Macchina1_10": 873113,
-      "_TRB_NUM_Macchina1_11": 608337,
-      "_TRB_NUM_Macchina1_12": 1128110,
-      "_TRB_NUM_Macchina1_13": 933503,
-      "_TRB_NUM_Macchina1_14": 1123126,
-      "_TRB_NUM_Macchina1_15": 1000295,
-      "_TRB_NUM_Macchina1_16": 1048388,
-      "_TRB_NUM_Macchina1_17": 1155917,
-      "_TRB_NUM_Macchina2_0": 3282501,
-      "_TRB_NUM_Macchina2_1": 4059355,
-      "_TRB_NUM_Macchina2_2": 4611402,
-      "_TRB_NUM_Macchina2_3": 4132358,
-      "_TRB_NUM_Macchina2_4": 3872715,
-      "_TRB_NUM_Macchina2_5": 4210132,
-      "_TRB_NUM_Macchina2_6": 4006886,
-      "_TRB_NUM_Macchina2_7": 1113896,
-      "_TRB_NUM_Macchina2_8": 4543683,
-      "_TRB_NUM_Macchina2_9": 4594830,
-      "_TRB_NUM_Macchina2_10": 4305422,
-      "_TRB_NUM_Macchina2_11": 3194207,
-      "_TRB_NUM_Macchina2_12": 4264584,
-      "_TRB_NUM_Macchina2_13": 4043791,
-      "_TRB_NUM_Macchina2_14": 4694430,
-      "_TRB_NUM_Macchina2_15": 3848415,
-      "_TRB_NUM_Macchina2_16": 4366150,
-      "_TRB_NUM_Macchina2_17": 4119511,
-      "_TRB_NUM_Forno3_0": 335831.41,
-      "_TRB_NUM_Forno3_1": 399550.6900000001,
-      "_TRB_NUM_Forno3_2": 103439.98999999999,
-      "_TRB_NUM_Forno3_5": 263471.63,
-      "_TRB_NUM_Forno3_6": 447198.68999999977,
-      "_TRB_NUM_Forno3_7": 55136.18,
-      "_TRB_NUM_Forno3_8": 363364.6599999999,
-      "_TRB_NUM_Forno3_9": 108527.22,
-      "_TRB_NUM_Forno3_10": 144019.55000000002,
-      "_TRB_NUM_Forno3_12": 134130.25999999998,
-      "_TRB_NUM_Forno3_13": 314426.49,
-      "_TRB_NUM_Forno3_14": 384653.2,
-      "_TRB_NUM_Forno3_15": 197590.72000000003,
-      "_TRB_NUM_Forno3_16": 111820.22999999998,
-      "_TRB_NUM_Forno3_17": 43820.079999999994,
-      "_TRB_NUM_Forno6_0": 607311.3,
-      "_TRB_NUM_Forno6_1": 601786.1900000001,
-      "_TRB_NUM_Forno6_2": 599341.05,
-      "_TRB_NUM_Forno6_3": 563131.52,
-      "_TRB_NUM_Forno6_4": 846120.07,
-      "_TRB_NUM_Forno6_5": 626800.6400000001,
-      "_TRB_NUM_Forno6_6": 800089.0200000004,
-      "_TRB_NUM_Forno6_7": 390856.39999999997,
-      "_TRB_NUM_Forno6_8": 952602.5699999998,
-      "_TRB_NUM_Forno6_9": 941611.7700000001,
-      "_TRB_NUM_Forno6_10": 866514.9700000002,
-      "_TRB_NUM_Forno6_11": 492912.5299999999,
-      "_TRB_NUM_Forno6_12": 731218.43,
-      "_TRB_NUM_Forno6_13": 932612.97,
-      "_TRB_NUM_Forno6_14": 1025833.06,
-      "_TRB_NUM_Forno6_15": 875651.1,
-      "_TRB_NUM_Forno6_16": 919882.4,
-      "_TRB_NUM_Forno6_17": 822934.3400000001,
-      "_IFA_NUM_Macchina1_0": 946915.2699999999,
-      "IFA": 111,
-      "_IFA_NUM_Macchina1_1": 1713363.9,
-      "_IFA_NUM_Macchina1_2": 966162.94,
-      "_IFA_NUM_Macchina1_3": 1461197.7699999998,
-      "_IFA_NUM_Macchina1_4": 938737.5499999999,
-      "_IFA_NUM_Macchina1_5": 1788670.7300000002,
-      "_IFA_NUM_Macchina1_6": 1458619.3600000003,
-      "_IFA_NUM_Macchina1_7": 57224.09,
-      "_IFA_NUM_Macchina1_8": 1112661.67,
-      "_IFA_NUM_Macchina1_9": 2015255.4700000007,
-      "_IFA_NUM_Macchina1_10": 1389188.2400000002,
-      "_IFA_NUM_Macchina1_11": 1282817.9600000002,
-      "_IFA_NUM_Macchina1_12": 2473779.4499999997,
-      "_IFA_NUM_Macchina1_13": 1799620.4000000001,
-      "_IFA_NUM_Macchina1_14": 1901550.3099999998,
-      "_IFA_NUM_Macchina1_15": 1158743.4400000002,
-      "_IFA_NUM_Macchina1_16": 1827744.3200000005,
-      "_IFA_NUM_Macchina1_17": 1806849.0199999996,
-      "_IFA_NUM_Macchina2_0": 2934458.6600000006,
-      "_IFA_NUM_Macchina2_1": 3558209.670000002,
-      "_IFA_NUM_Macchina2_2": 4134255.1499999994,
-      "_IFA_NUM_Macchina2_3": 3756486.000000001,
-      "_IFA_NUM_Macchina2_4": 3505452.0900000003,
-      "_IFA_NUM_Macchina2_5": 3829284.790000001,
-      "_IFA_NUM_Macchina2_6": 3414823.0600000005,
-      "_IFA_NUM_Macchina2_7": 921994.11,
-      "_IFA_NUM_Macchina2_8": 4113339.5300000003,
-      "_IFA_NUM_Macchina2_9": 4259144.250000002,
-      "_IFA_NUM_Macchina2_10": 4018588.4700000007,
-      "_IFA_NUM_Macchina2_11": 2726493.7999999993,
-      "_IFA_NUM_Macchina2_12": 4040598.0850000004,
-      "_IFA_NUM_Macchina2_13": 3666225.285,
-      "_IFA_NUM_Macchina2_14": 4110764.3700000006,
-      "_IFA_NUM_Macchina2_15": 3705679.207,
-      "_IFA_NUM_Macchina2_16": 3939849.12,
-      "_IFA_NUM_Macchina2_17": 3851036.6999999993,
-      "_IFA_NUM_Forno3_0": 755510.4699999999,
-      "_IFA_NUM_Forno3_1": 892118.7999999999,
-      "_IFA_NUM_Forno3_2": 247302.70999999996,
-      "_IFA_NUM_Forno3_5": 592818.2100000001,
-      "_IFA_NUM_Forno3_6": 1004258.0600000002,
-      "_IFA_NUM_Forno3_7": 131473.58,
-      "_IFA_NUM_Forno3_8": 837672.3599999998,
-      "_IFA_NUM_Forno3_9": 252319.93999999997,
-      "_IFA_NUM_Forno3_10": 348053.14,
-      "_IFA_NUM_Forno3_12": 311284.6500000001,
-      "_IFA_NUM_Forno3_13": 753037.5900000002,
-      "_IFA_NUM_Forno3_14": 883180.86,
-      "_IFA_NUM_Forno3_15": 556223.4799999999,
-      "_IFA_NUM_Forno3_16": 350540.67,
-      "_IFA_NUM_Forno3_17": 124654.64,
-      "_IFA_NUM_Forno6_0": 1188201.5599999998,
-      "_IFA_NUM_Forno6_1": 1228355.3999999997,
-      "_IFA_NUM_Forno6_2": 1220428.69,
-      "_IFA_NUM_Forno6_3": 1215138.66,
-      "_IFA_NUM_Forno6_4": 1763023.6900000004,
-      "_IFA_NUM_Forno6_5": 1212770.6500000004,
-      "_IFA_NUM_Forno6_6": 1394777.8400000005,
-      "_IFA_NUM_Forno6_7": 839636.41,
-      "_IFA_NUM_Forno6_8": 1714234.3599999999,
-      "_IFA_NUM_Forno6_9": 1790158.0899999996,
-      "_IFA_NUM_Forno6_10": 1597110.8099999998,
-      "_IFA_NUM_Forno6_11": 937100.5200000001,
-      "_IFA_NUM_Forno6_12": 1438503.4199999997,
-      "_IFA_NUM_Forno6_13": 1704760.8219600006,
-      "_IFA_NUM_Forno6_14": 1786934.1,
-      "_IFA_NUM_Forno6_15": 1852097.9699999995,
-      "_IFA_NUM_Forno6_16": 1834674.19,
-      "_IFA_NUM_Forno6_17": 1844917.9799999997,
-      "_FF_CLIENTI": [
-        {
-          "cliente": "ABET LAMINATI SPA",
-          "tipo": "AIG",
-          "ff": 52.03741575000001
-        },
-        {
-          "cliente": "ARPA INDUSTRIALE SPA",
-          "tipo": "AIG",
-          "ff": 96.91864105818182
-        },
-        {
-          "cliente": "ASD LAMINAT.A.S.",
-          "tipo": "AIG",
-          "ff": 60.1209578
-        },
-        {
-          "cliente": "BARTOLI S.P.A.",
-          "tipo": "AIG",
-          "ff": 17.582376666666665
-        },
-        {
-          "cliente": "CESAPLAST SPA",
-          "tipo": "AIG",
-          "ff": 38.49527333333334
-        },
-        {
-          "cliente": "CHIMICA POMPONESCO SPA",
-          "tipo": "AIG",
-          "ff": 14.300540000000005
-        },
-        {
-          "cliente": "CLEAF SPA",
-          "tipo": "AIG",
-          "ff": 63.88516515333333
-        },
-        {
-          "cliente": "CONSORZIO ENERGY PAPER S.C.A.R.L.",
-          "tipo": "AIG",
-          "ff": 47.92515
-        },
-        {
-          "cliente": "D.TRADING D.O.O.",
-          "tipo": "AIG",
-          "ff": 100
-        },
-        {
-          "cliente": "DECOR IN PRINTING SPA",
-          "tipo": "AIG",
-          "ff": 1.3884479999999977
-        },
-        {
-          "cliente": "DI Dekodur International GmbH & Co.",
-          "tipo": "AIG",
-          "ff": 49.29126
-        },
-        {
-          "cliente": "EGGER HOLZWERKSTOFFE WISMAR",
-          "tipo": "AIG",
-          "ff": 34.56789
-        },
-        {
-          "cliente": "F I N S A",
-          "tipo": "AIG",
-          "ff": 24.538125
-        },
-        {
-          "cliente": "FILIPPI 1971 SRL",
-          "tipo": "AIG",
-          "ff": 3.178940000000008
-        },
-        {
-          "cliente": "FUNDERMAX  GmbH",
-          "tipo": "AIG",
-          "ff": 19.190451333333336
-        },
-        {
-          "cliente": "GENTAS DEKORATIF YUZEYLER SANAYI ve",
-          "tipo": "AIG",
-          "ff": 79.814601
-        },
-        {
-          "cliente": "GRUPPO MAURO SAVIOLA srl",
-          "tipo": "AIG",
-          "ff": 66.30259011999999
-        },
-        {
-          "cliente": "HANS SCHMID KG. GMBH UND CO.",
-          "tipo": "AIG",
-          "ff": 52.814410624999994
-        },
-        {
-          "cliente": "LA-CON SPA",
-          "tipo": "AIG",
-          "ff": 43.1628794
-        },
-        {
-          "cliente": "LAMICOLOR SPA",
-          "tipo": "AIG",
-          "ff": 1.14105715
-        },
-        {
-          "cliente": "LOMBARDO SPA",
-          "tipo": "AIG",
-          "ff": 10.270446666666677
-        },
-        {
-          "cliente": "MELATONE LTD.",
-          "tipo": "AIG",
-          "ff": 32.007149999999996
-        },
-        {
-          "cliente": "NEODECORTECH SPA",
-          "tipo": "AIG",
-          "ff": 49.44354333333334
-        },
-        {
-          "cliente": "PFLEIDERER ARNSBERG GMBH",
-          "tipo": "AIG",
-          "ff": 18.786438000000004
-        },
-        {
-          "cliente": "PFLEIDERER LEUTKIRCH GMBH",
-          "tipo": "AIG",
-          "ff": 35.24186699999999
-        },
-        {
-          "cliente": "POLYREY SAS",
-          "tipo": "AIG",
-          "ff": 73.87955277777777
-        },
-        {
-          "cliente": "PURICELLI S.R.L.",
-          "tipo": "AIG",
-          "ff": 100
-        },
-        {
-          "cliente": "SAFER GROUP SRL",
-          "tipo": "AIG",
-          "ff": 100
-        },
-        {
-          "cliente": "SHANGHAI FORMICA DECO MAT CO.",
-          "tipo": "AIG",
-          "ff": 13.595965
-        },
-        {
-          "cliente": "SIME ENERGIA S.R.L.",
-          "tipo": "AIG",
-          "ff": 100
-        },
-        {
-          "cliente": "SM'art S.r.l.",
-          "tipo": "AIG",
-          "ff": 71.13086636363637
-        },
-        {
-          "cliente": "SURFORMA, S.A.",
-          "tipo": "AIG",
-          "ff": 17.81132
-        },
-        {
-          "cliente": "TACON DECOR, S.L",
-          "tipo": "AIG",
-          "ff": 47.56104
-        },
-        {
-          "cliente": "TURIN CARTA SRL",
-          "tipo": "AIG",
-          "ff": 100
-        },
-        {
-          "cliente": "UNILIN BVBA",
-          "tipo": "AIG",
-          "ff": 1.0272646833333332
-        },
-        {
-          "cliente": "WESTAG AG",
-          "tipo": "AIG",
-          "ff": 12.554333333333334
-        },
-        {
-          "cliente": "PURICELLI S.R.L.",
-          "tipo": "COFACE",
-          "ff": 76.2283788888889
-        },
-        {
-          "cliente": "PURIPLAST HELLAS  AE",
-          "tipo": "COFACE",
-          "ff": 31.561666666666667
-        }
-      ],
-      "FF": 46.3,
-      "TCO": 57.9,
+      "DFR": 0.97,
+      "DER": 0.95,
+      "TCO": 57.1,
       "GCO": 100,
       "_ISL_NUM_Macchina2_0": 150104,
-      "ISL": 47.6,
+      "ISL": 61.6,
       "_ISL_NUM_Forno6_0": 242048.39,
       "_ISL_NUM_Macchina1_0": 101772,
       "_ISL_NUM_Macchina2_1": 1674147,
@@ -8907,24 +9028,24 @@
       "_ISL_NUM_Forno3_9": 26414,
       "_ISL_NUM_Macchina1_14": 950475,
       "_ISL_NUM_Macchina1_11": 180500,
-      "_ISL_NUM_Macchina2_14": 4467824,
-      "_ISL_NUM_Forno6_12": 3289974.89,
-      "_ISL_NUM_Forno6_13": 3961578.999999999,
-      "_ISL_NUM_Forno6_14": 2612561.0300000003,
+      "_ISL_NUM_Macchina2_14": 4542824,
+      "_ISL_NUM_Forno6_12": 3408774.89,
+      "_ISL_NUM_Forno6_13": 4065898.999999999,
+      "_ISL_NUM_Forno6_14": 2777281.0300000003,
       "_ISL_NUM_Forno6_11": 1244164.9100000001,
-      "_ISL_NUM_Macchina2_15": 3920941,
-      "_ISL_NUM_Macchina2_16": 4237589.5,
-      "_ISL_NUM_Forno6_17": 3440874.2299999995,
-      "_ISL_NUM_Forno6_15": 3781760.5849999995,
+      "_ISL_NUM_Macchina2_15": 3940941,
+      "_ISL_NUM_Macchina2_16": 4682589.5,
+      "_ISL_NUM_Forno6_17": 3546274.2299999995,
+      "_ISL_NUM_Forno6_15": 3820160.5849999995,
       "_ISL_NUM_Macchina1_16": 853500,
       "_ISL_NUM_Macchina1_15": 460970,
-      "_ISL_NUM_Macchina2_17": 5573780,
+      "_ISL_NUM_Macchina2_17": 6877780,
       "_ISL_NUM_Forno3_13": 12381,
-      "_ISL_NUM_Forno3_14": 324942.4,
-      "_ISL_NUM_Forno3_15": 688750,
-      "_ISL_NUM_Forno6_16": 2225337.89,
+      "_ISL_NUM_Forno3_14": 359782.4,
+      "_ISL_NUM_Forno3_15": 755750,
+      "_ISL_NUM_Forno6_16": 2397737.89,
       "_ISL_NUM_Forno3_16": 490453.13,
-      "_ISL_NUM_Macchina1_17": 602286,
+      "_ISL_NUM_Macchina1_17": 778286,
       "_TCO_BY_RS": {
         "0": {
           "ARPA INDUSTRIALE SPA": {
@@ -10288,8 +10409,8 @@
             "conf": 0
           },
           "UNILIN BVBA": {
-            "total": 8,
-            "conf": 5
+            "total": 9,
+            "conf": 6
           },
           "ABET LAMINATI SPA": {
             "total": 21,
@@ -10446,7 +10567,7 @@
             "conf": 2
           },
           "ABET LAMINATI SPA": {
-            "total": 25,
+            "total": 26,
             "conf": 12
           },
           "GENTAS DEKORATIF YUZEYLER SANAYI ve": {
@@ -10568,7 +10689,7 @@
             "conf": 10
           },
           "UNILIN BVBA": {
-            "total": 15,
+            "total": 19,
             "conf": 0
           },
           "SM'art S.r.l.": {
@@ -10668,8 +10789,8 @@
             "conf": 0
           },
           "HANS SCHMID KG. GMBH UND CO.": {
-            "total": 4,
-            "conf": 4
+            "total": 8,
+            "conf": 8
           },
           "LOMBARDO SPA": {
             "total": 1,
@@ -10694,7 +10815,7 @@
             "conf": 0
           },
           "ABET LAMINATI SPA": {
-            "total": 27,
+            "total": 28,
             "conf": 23
           },
           "PFLEIDERER ARNSBERG GMBH": {
@@ -10730,8 +10851,8 @@
             "conf": 1
           },
           "HANS SCHMID KG. GMBH UND CO.": {
-            "total": 7,
-            "conf": 7
+            "total": 8,
+            "conf": 8
           },
           "CLEAF SPA": {
             "total": 21,
@@ -10754,8 +10875,8 @@
             "conf": 1
           },
           "UNILIN BVBA": {
-            "total": 7,
-            "conf": 2
+            "total": 8,
+            "conf": 3
           },
           "LAMICOLOR SPA": {
             "total": 14,
@@ -10808,7 +10929,7 @@
             "conf": 8
           },
           "ABET LAMINATI SPA": {
-            "total": 13,
+            "total": 14,
             "conf": 12
           },
           "HANS SCHMID KG. GMBH UND CO.": {
@@ -10824,7 +10945,7 @@
             "conf": 2
           },
           "UNILIN BVBA": {
-            "total": 7,
+            "total": 9,
             "conf": 0
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
@@ -10868,8 +10989,8 @@
             "conf": 10
           },
           "PFLEIDERER ARNSBERG GMBH": {
-            "total": 1,
-            "conf": 1
+            "total": 2,
+            "conf": 2
           },
           "ASD LAMINAT.A.S.": {
             "total": 4,
@@ -10880,8 +11001,8 @@
             "conf": 0
           },
           "POLYREY SAS": {
-            "total": 8,
-            "conf": 8
+            "total": 10,
+            "conf": 10
           },
           "TACON DECOR, S.L": {
             "total": 3,
@@ -10914,12 +11035,12 @@
         },
         "15": {
           "POLYREY SAS": {
-            "total": 2,
-            "conf": 1
+            "total": 3,
+            "conf": 2
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
-            "total": 4,
-            "conf": 4
+            "total": 5,
+            "conf": 5
           },
           "TACON DECOR, S.L": {
             "total": 12,
@@ -10938,8 +11059,8 @@
             "conf": 0
           },
           "ABET LAMINATI SPA": {
-            "total": 23,
-            "conf": 17
+            "total": 29,
+            "conf": 20
           },
           "BARTOLI S.P.A.": {
             "total": 2,
@@ -10970,12 +11091,16 @@
             "conf": 2
           },
           "UNILIN BVBA": {
-            "total": 9,
+            "total": 12,
             "conf": 0
           },
           "KULSAN MELAMIN PLASTIK SAN.TIC.COME": {
             "total": 1,
             "conf": 0
+          },
+          "HANS SCHMID KG. GMBH UND CO.": {
+            "total": 8,
+            "conf": 8
           },
           "LA-CON SPA": {
             "total": 2,
@@ -10994,8 +11119,8 @@
             "conf": 1
           },
           "LAMICOLOR SPA": {
-            "total": 15,
-            "conf": 15
+            "total": 18,
+            "conf": 18
           },
           "SUNFLOWER CORPORATION": {
             "total": 1,
@@ -11012,10 +11137,6 @@
           "F I N S A": {
             "total": 1,
             "conf": 1
-          },
-          "HANS SCHMID KG. GMBH UND CO.": {
-            "total": 4,
-            "conf": 4
           },
           "ZHEJIANG REXIN DECOR.MATERIAL.CO.": {
             "total": 1,
@@ -11064,36 +11185,36 @@
             "conf": 0
           },
           "ASD LAMINAT.A.S.": {
-            "total": 12,
-            "conf": 9
+            "total": 20,
+            "conf": 17
           },
           "PFLEIDERER LEUTKIRCH GMBH": {
-            "total": 7,
-            "conf": 7
+            "total": 11,
+            "conf": 11
           },
           "UNILIN BVBA": {
-            "total": 8,
-            "conf": 2
+            "total": 15,
+            "conf": 6
           },
           "SM'art S.r.l.": {
-            "total": 10,
-            "conf": 10
+            "total": 11,
+            "conf": 11
           },
           "LA-CON SPA": {
             "total": 5,
             "conf": 2
           },
           "ARPA INDUSTRIALE SPA": {
-            "total": 35,
-            "conf": 35
+            "total": 56,
+            "conf": 56
           },
           "TACON DECOR, S.L": {
             "total": 7,
             "conf": 3
           },
           "CLEAF SPA": {
-            "total": 19,
-            "conf": 2
+            "total": 21,
+            "conf": 3
           },
           "TRESPA INTERNATIONAL BV": {
             "total": 2,
@@ -11112,16 +11233,16 @@
             "conf": 0
           },
           "GENTAS DEKORATIF YUZEYLER SANAYI ve": {
-            "total": 2,
-            "conf": 1
+            "total": 4,
+            "conf": 3
           },
           "LAMICOLOR SPA": {
-            "total": 4,
-            "conf": 4
+            "total": 13,
+            "conf": 13
           },
           "ABET LAMINATI SPA": {
-            "total": 4,
-            "conf": 4
+            "total": 8,
+            "conf": 8
           },
           "CROWN DECOR PVT LTD.": {
             "total": 2,
@@ -11136,20 +11257,20 @@
             "conf": 4
           },
           "EGGER HOLZWERKSTOFFE WISMAR": {
-            "total": 2,
-            "conf": 2
+            "total": 4,
+            "conf": 4
           },
           "FORMICA LIMITED": {
             "total": 1,
             "conf": 1
           },
           "PELIT ARSLAN KONTRPLAK FABRIKASI": {
-            "total": 1,
+            "total": 2,
             "conf": 0
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
-            "total": 1,
-            "conf": 1
+            "total": 2,
+            "conf": 2
           },
           "F I N S A": {
             "total": 1,
@@ -11164,18 +11285,18 @@
             "conf": 2
           },
           "FUNDERMAX  GmbH": {
-            "total": 2,
-            "conf": 2
+            "total": 6,
+            "conf": 6
           }
         },
         "17": {
           "NEODECORTECH SPA": {
-            "total": 3,
-            "conf": 0
+            "total": 7,
+            "conf": 4
           },
           "UNILIN BVBA": {
-            "total": 2,
-            "conf": 1
+            "total": 3,
+            "conf": 2
           },
           "PFLEIDERER LEUTKIRCH GMBH": {
             "total": 2,
@@ -11186,27 +11307,27 @@
             "conf": 4
           },
           "ABET LAMINATI SPA": {
-            "total": 4,
-            "conf": 2
+            "total": 17,
+            "conf": 10
           },
           "TACON DECOR, S.L": {
-            "total": 8,
-            "conf": 8
+            "total": 11,
+            "conf": 11
           },
           "FILIPPI 1971 SRL": {
-            "total": 4,
+            "total": 5,
             "conf": 0
           },
           "CLEAF SPA": {
-            "total": 9,
-            "conf": 6
+            "total": 24,
+            "conf": 15
           },
           "HANS SCHMID KG. GMBH UND CO.": {
-            "total": 2,
-            "conf": 2
+            "total": 4,
+            "conf": 4
           },
           "DECOR IN PRINTING SPA": {
-            "total": 3,
+            "total": 4,
             "conf": 0
           },
           "MERINO INDUSTRIES LIMITED,": {
@@ -11217,40 +11338,76 @@
             "total": 1,
             "conf": 0
           },
-          "LAMICOLOR SPA": {
+          "TAEGUH IND.CO.,LTD.": {
+            "total": 1,
+            "conf": 0
+          },
+          "LAMTUF LIMITED": {
+            "total": 1,
+            "conf": 0
+          },
+          "MADERAS MEJORADAS INDUSTRIAL S.A.U.": {
             "total": 1,
             "conf": 1
+          },
+          "GENTAS DEKORATIF YUZEYLER SANAYI ve": {
+            "total": 1,
+            "conf": 1
+          },
+          "LAMICOLOR SPA": {
+            "total": 4,
+            "conf": 4
           },
           "WESTAG AG": {
-            "total": 1,
-            "conf": 1
+            "total": 3,
+            "conf": 3
           },
           "KOKUSAI PULP&PAPER CO., LTD": {
+            "total": 4,
+            "conf": 4
+          },
+          "PURICELLI S.R.L.": {
+            "total": 8,
+            "conf": 0
+          },
+          "DI Dekodur International GmbH & Co.": {
             "total": 2,
             "conf": 2
           },
-          "PURICELLI S.R.L.": {
-            "total": 2,
-            "conf": 0
-          },
           "ASD LAMINAT.A.S.": {
-            "total": 1,
-            "conf": 1
+            "total": 3,
+            "conf": 3
           },
           "SM'art S.r.l.": {
-            "total": 10,
-            "conf": 8
+            "total": 18,
+            "conf": 16
           },
           "ARPA INDUSTRIALE SPA": {
-            "total": 5,
-            "conf": 3
+            "total": 10,
+            "conf": 8
           },
           "SURFORMA, S.A.": {
             "total": 1,
             "conf": 0
           },
-          "EGGER PANNEAUX & DECORS S.A.S": {
+          "POLYREY SAS": {
             "total": 1,
+            "conf": 1
+          },
+          "GREENLAM INDUSTRIES LTD,": {
+            "total": 1,
+            "conf": 0
+          },
+          "EGGER PANNEAUX & DECORS S.A.S": {
+            "total": 2,
+            "conf": 0
+          },
+          "FORMICA LIMITED": {
+            "total": 3,
+            "conf": 0
+          },
+          "JIANGSU BODA NEW MATERIALS TECHNOLO": {
+            "total": 2,
             "conf": 0
           }
         }
@@ -13290,8 +13447,8 @@
           "UNILIN BVBA": {
             "grz_all": 5000,
             "grz_conf": 0,
-            "imp_all": 412215,
-            "imp_conf": 267495
+            "imp_all": 476535,
+            "imp_conf": 331815
           },
           "ABET LAMINATI SPA": {
             "grz_all": 1163147,
@@ -13526,7 +13683,7 @@
           "ABET LAMINATI SPA": {
             "grz_all": 1603946,
             "grz_conf": 765000,
-            "imp_all": 20000,
+            "imp_all": 45000,
             "imp_conf": 0
           },
           "GENTAS DEKORATIF YUZEYLER SANAYI ve": {
@@ -13708,7 +13865,7 @@
           "UNILIN BVBA": {
             "grz_all": 11000,
             "grz_conf": 0,
-            "imp_all": 476852.5,
+            "imp_all": 669812.5,
             "imp_conf": 0
           },
           "SM'art S.r.l.": {
@@ -13856,8 +14013,8 @@
             "imp_conf": 0
           },
           "HANS SCHMID KG. GMBH UND CO.": {
-            "grz_all": 425000,
-            "grz_conf": 425000,
+            "grz_all": 774440,
+            "grz_conf": 774440,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -13896,7 +14053,7 @@
           "ABET LAMINATI SPA": {
             "grz_all": 1187753,
             "grz_conf": 1132753,
-            "imp_all": 31608,
+            "imp_all": 71608,
             "imp_conf": 0
           },
           "PFLEIDERER ARNSBERG GMBH": {
@@ -13948,8 +14105,8 @@
             "imp_conf": 24138.4
           },
           "HANS SCHMID KG. GMBH UND CO.": {
-            "grz_all": 810000,
-            "grz_conf": 810000,
+            "grz_all": 885000,
+            "grz_conf": 885000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -13986,8 +14143,8 @@
           "UNILIN BVBA": {
             "grz_all": 5000,
             "grz_conf": 0,
-            "imp_all": 429525,
-            "imp_conf": 143175
+            "imp_all": 509925,
+            "imp_conf": 223575
           },
           "LAMICOLOR SPA": {
             "grz_all": 395000,
@@ -14066,7 +14223,7 @@
           "ABET LAMINATI SPA": {
             "grz_all": 675000,
             "grz_conf": 675000,
-            "imp_all": 15000,
+            "imp_all": 35000,
             "imp_conf": 0
           },
           "HANS SCHMID KG. GMBH UND CO.": {
@@ -14090,7 +14247,7 @@
           "UNILIN BVBA": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 444375,
+            "imp_all": 524775,
             "imp_conf": 0
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
@@ -14154,8 +14311,8 @@
             "imp_conf": 0
           },
           "PFLEIDERER ARNSBERG GMBH": {
-            "grz_all": 50000,
-            "grz_conf": 50000,
+            "grz_all": 180000,
+            "grz_conf": 180000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14172,8 +14329,8 @@
             "imp_conf": 0
           },
           "POLYREY SAS": {
-            "grz_all": 2286000,
-            "grz_conf": 2286000,
+            "grz_all": 2836000,
+            "grz_conf": 2836000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14222,14 +14379,14 @@
         },
         "15": {
           "POLYREY SAS": {
-            "grz_all": 79000,
-            "grz_conf": 78000,
+            "grz_all": 157000,
+            "grz_conf": 156000,
             "imp_all": 0,
             "imp_conf": 0
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
-            "grz_all": 96000,
-            "grz_conf": 96000,
+            "grz_all": 120000,
+            "grz_conf": 120000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14258,9 +14415,9 @@
             "imp_conf": 0
           },
           "ABET LAMINATI SPA": {
-            "grz_all": 1135900,
-            "grz_conf": 1128900,
-            "imp_all": 40000,
+            "grz_all": 1249900,
+            "grz_conf": 1242900,
+            "imp_all": 90000,
             "imp_conf": 0
           },
           "BARTOLI S.P.A.": {
@@ -14308,13 +14465,19 @@
           "UNILIN BVBA": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 552300,
+            "imp_all": 780100,
             "imp_conf": 0
           },
           "KULSAN MELAMIN PLASTIK SAN.TIC.COME": {
             "grz_all": 0,
             "grz_conf": 0,
             "imp_all": 100000,
+            "imp_conf": 0
+          },
+          "HANS SCHMID KG. GMBH UND CO.": {
+            "grz_all": 1443000,
+            "grz_conf": 1443000,
+            "imp_all": 0,
             "imp_conf": 0
           },
           "LA-CON SPA": {
@@ -14342,8 +14505,8 @@
             "imp_conf": 0
           },
           "LAMICOLOR SPA": {
-            "grz_all": 345000,
-            "grz_conf": 345000,
+            "grz_all": 365000,
+            "grz_conf": 365000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14370,12 +14533,6 @@
             "grz_conf": 0,
             "imp_all": 24138.4,
             "imp_conf": 24138.4
-          },
-          "HANS SCHMID KG. GMBH UND CO.": {
-            "grz_all": 684000,
-            "grz_conf": 684000,
-            "imp_all": 0,
-            "imp_conf": 0
           },
           "ZHEJIANG REXIN DECOR.MATERIAL.CO.": {
             "grz_all": 24000,
@@ -14446,26 +14603,26 @@
             "imp_conf": 0
           },
           "ASD LAMINAT.A.S.": {
-            "grz_all": 540800,
-            "grz_conf": 531000,
-            "imp_all": 96000,
-            "imp_conf": 96000
+            "grz_all": 1116800,
+            "grz_conf": 1107000,
+            "imp_all": 187000,
+            "imp_conf": 187000
           },
           "PFLEIDERER LEUTKIRCH GMBH": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 461219,
-            "imp_conf": 461219
+            "imp_all": 745123.4,
+            "imp_conf": 745123.4
           },
           "UNILIN BVBA": {
             "grz_all": 15000,
             "grz_conf": 15000,
-            "imp_all": 301205.95999999996,
-            "imp_conf": 0
+            "imp_all": 919055.96,
+            "imp_conf": 411900
           },
           "SM'art S.r.l.": {
-            "grz_all": 20000,
-            "grz_conf": 20000,
+            "grz_all": 40000,
+            "grz_conf": 40000,
             "imp_all": 361752.39,
             "imp_conf": 361752.39
           },
@@ -14476,8 +14633,8 @@
             "imp_conf": 120000
           },
           "ARPA INDUSTRIALE SPA": {
-            "grz_all": 620000,
-            "grz_conf": 620000,
+            "grz_all": 949000,
+            "grz_conf": 949000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14488,9 +14645,9 @@
             "imp_conf": 72500
           },
           "CLEAF SPA": {
-            "grz_all": 4800,
-            "grz_conf": 4800,
-            "imp_all": 775505,
+            "grz_all": 9600,
+            "grz_conf": 9600,
+            "imp_all": 810577,
             "imp_conf": 29225
           },
           "TRESPA INTERNATIONAL BV": {
@@ -14518,20 +14675,20 @@
             "imp_conf": 0
           },
           "GENTAS DEKORATIF YUZEYLER SANAYI ve": {
-            "grz_all": 21700,
-            "grz_conf": 20000,
+            "grz_all": 113700,
+            "grz_conf": 112000,
             "imp_all": 0,
             "imp_conf": 0
           },
           "LAMICOLOR SPA": {
-            "grz_all": 270000,
-            "grz_conf": 270000,
+            "grz_all": 655000,
+            "grz_conf": 655000,
             "imp_all": 0,
             "imp_conf": 0
           },
           "ABET LAMINATI SPA": {
-            "grz_all": 450000,
-            "grz_conf": 450000,
+            "grz_all": 845000,
+            "grz_conf": 845000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14554,8 +14711,8 @@
             "imp_conf": 77126.40000000001
           },
           "EGGER HOLZWERKSTOFFE WISMAR": {
-            "grz_all": 48000,
-            "grz_conf": 48000,
+            "grz_all": 96000,
+            "grz_conf": 96000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14566,14 +14723,14 @@
             "imp_conf": 0
           },
           "PELIT ARSLAN KONTRPLAK FABRIKASI": {
-            "grz_all": 24000,
+            "grz_all": 48000,
             "grz_conf": 0,
             "imp_all": 0,
             "imp_conf": 0
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
-            "grz_all": 24000,
-            "grz_conf": 24000,
+            "grz_all": 48000,
+            "grz_conf": 48000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14598,22 +14755,22 @@
           "FUNDERMAX  GmbH": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 142350,
-            "imp_conf": 142350
+            "imp_all": 771806,
+            "imp_conf": 771806
           }
         },
         "17": {
           "NEODECORTECH SPA": {
-            "grz_all": 13000,
-            "grz_conf": 0,
+            "grz_all": 35000,
+            "grz_conf": 22000,
             "imp_all": 0,
             "imp_conf": 0
           },
           "UNILIN BVBA": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 46237.5,
-            "imp_conf": 14850
+            "imp_all": 61087.5,
+            "imp_conf": 29700
           },
           "PFLEIDERER LEUTKIRCH GMBH": {
             "grz_all": 0,
@@ -14628,37 +14785,37 @@
             "imp_conf": 0
           },
           "ABET LAMINATI SPA": {
-            "grz_all": 42500,
-            "grz_conf": 42000,
-            "imp_all": 20000,
+            "grz_all": 1122500,
+            "grz_conf": 922000,
+            "imp_all": 45000,
             "imp_conf": 0
           },
           "TACON DECOR, S.L": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 213500,
-            "imp_conf": 213500
+            "imp_all": 283700,
+            "imp_conf": 283700
           },
           "FILIPPI 1971 SRL": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 76165.19999999998,
+            "imp_all": 80217.59999999999,
             "imp_conf": 0
           },
           "CLEAF SPA": {
-            "grz_all": 0,
+            "grz_all": 9600,
             "grz_conf": 0,
-            "imp_all": 235231,
-            "imp_conf": 171991
+            "imp_all": 700072,
+            "imp_conf": 423312
           },
           "HANS SCHMID KG. GMBH UND CO.": {
-            "grz_all": 2000,
-            "grz_conf": 2000,
+            "grz_all": 15000,
+            "grz_conf": 15000,
             "imp_all": 0,
             "imp_conf": 0
           },
           "DECOR IN PRINTING SPA": {
-            "grz_all": 5000,
+            "grz_all": 8000,
             "grz_conf": 0,
             "imp_all": 5402.24,
             "imp_conf": 0
@@ -14675,45 +14832,75 @@
             "imp_all": 0,
             "imp_conf": 0
           },
-          "LAMICOLOR SPA": {
-            "grz_all": 25000,
-            "grz_conf": 25000,
-            "imp_all": 0,
-            "imp_conf": 0
-          },
-          "WESTAG AG": {
+          "TAEGUH IND.CO.,LTD.": {
             "grz_all": 20000,
-            "grz_conf": 20000,
-            "imp_all": 0,
-            "imp_conf": 0
-          },
-          "KOKUSAI PULP&PAPER CO., LTD": {
-            "grz_all": 25000,
-            "grz_conf": 25000,
-            "imp_all": 0,
-            "imp_conf": 0
-          },
-          "PURICELLI S.R.L.": {
-            "grz_all": 29847,
             "grz_conf": 0,
             "imp_all": 0,
             "imp_conf": 0
           },
-          "ASD LAMINAT.A.S.": {
+          "LAMTUF LIMITED": {
+            "grz_all": 12000,
+            "grz_conf": 0,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "MADERAS MEJORADAS INDUSTRIAL S.A.U.": {
             "grz_all": 24000,
             "grz_conf": 24000,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "GENTAS DEKORATIF YUZEYLER SANAYI ve": {
+            "grz_all": 48000,
+            "grz_conf": 48000,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "LAMICOLOR SPA": {
+            "grz_all": 110000,
+            "grz_conf": 110000,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "WESTAG AG": {
+            "grz_all": 80000,
+            "grz_conf": 80000,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "KOKUSAI PULP&PAPER CO., LTD": {
+            "grz_all": 50000,
+            "grz_conf": 50000,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "PURICELLI S.R.L.": {
+            "grz_all": 180974,
+            "grz_conf": 0,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "DI Dekodur International GmbH & Co.": {
+            "grz_all": 0,
+            "grz_conf": 0,
+            "imp_all": 73543,
+            "imp_conf": 73543
+          },
+          "ASD LAMINAT.A.S.": {
+            "grz_all": 51000,
+            "grz_conf": 51000,
             "imp_all": 0,
             "imp_conf": 0
           },
           "SM'art S.r.l.": {
             "grz_all": 0,
             "grz_conf": 0,
-            "imp_all": 138275.11,
-            "imp_conf": 137226.11
+            "imp_all": 275501.22,
+            "imp_conf": 274452.22
           },
           "ARPA INDUSTRIALE SPA": {
-            "grz_all": 17186,
-            "grz_conf": 15000,
+            "grz_all": 292186,
+            "grz_conf": 290000,
             "imp_all": 0,
             "imp_conf": 0
           },
@@ -14723,14 +14910,42 @@
             "imp_all": 0,
             "imp_conf": 0
           },
+          "POLYREY SAS": {
+            "grz_all": 250000,
+            "grz_conf": 250000,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "GREENLAM INDUSTRIES LTD,": {
+            "grz_all": 43500,
+            "grz_conf": 0,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
           "EGGER PANNEAUX & DECORS S.A.S": {
-            "grz_all": 1230,
+            "grz_all": 2460,
+            "grz_conf": 0,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "FORMICA LIMITED": {
+            "grz_all": 9000,
+            "grz_conf": 0,
+            "imp_all": 0,
+            "imp_conf": 0
+          },
+          "JIANGSU BODA NEW MATERIALS TECHNOLO": {
+            "grz_all": 36000,
             "grz_conf": 0,
             "imp_all": 0,
             "imp_conf": 0
           }
         }
       },
+      "O.E.E.": 73.4,
+      "O.E.E.(PxQ)": 84,
+      "D": 84.1,
+      "NRFT": 99.1,
       "_CFO_FORNITORI": [
         "AGENZIA MACERI 2003 SRL",
         "ALSECO S.R.L.",
@@ -14745,13 +14960,11 @@
         "GHELFI ONDULATI S.P.A.",
         "GP HARMON RECYCLING LLC",
         "GV MACERO S.P.A.",
-        "HOLMEN BOARD AND PAPER AB",
         "I.F.P. FOREST AND PAPER PRODUCTS",
         "IMIFABI SPA",
         "INTERNATIONAL FOREST PRODUCTS LLC",
         "KSB SPOL SRO",
         "L'APROCHIMIDE S.R.L.",
-        "MERCER ROSENTHAL GMBH",
         "NORECO CHIMICA S.P.A.",
         "OLIMPIA S.R.L.",
         "OXERRA ITALY S.P.A.",
@@ -14778,11 +14991,8 @@
         "EUCALIPTO DECOCELL",
         "EUCALIPTO STANDARD",
         "GIALLO FLEXONIL FGL - X",
-        "IMPERIAL ANCHOR FIBRA LUNGA",
         "KRAFTLINER KLB",
         "KSK A",
-        "MERCER ROSENTHAL",
-        "METSA F.L. FSC",
         "MONTES PERFORM PLUS FC",
         "MONTES PERFORM PLUS-MIX",
         "NERO CARBON BLACK",
@@ -14791,7 +15001,6 @@
         "ROSSO FLEXONIL E 5 B",
         "ROSSO OSSIDO 1020",
         "SAINT GAUDENS BLU F.C.",
-        "SAINT GAUDENS VERDE F.L.",
         "TALCO IN SACCHI",
         "TALCO SFUSO",
         "TITANIO TYR 588",
@@ -14800,23 +15009,23 @@
         "WOODLAND SAINT CROIX",
         "WOODLAND SAINT CROIX-MIX"
       ],
-      "_CFO_NUM_0": 98480,
-      "_CFO_NUM_1": 52460,
-      "_CFO_NUM_2": 41280,
-      "_CFO_NUM_3": 38720,
-      "_CFO_NUM_4": 46040,
-      "_CFO_NUM_5": 35200,
-      "_CFO_NUM_6": 51210.5,
-      "_CFO_NUM_7": 29570,
-      "_CFO_NUM_8": 37090,
-      "_CFO_NUM_9": 46300,
-      "_CFO_NUM_10": 47750,
-      "_CFO_NUM_11": 38440,
-      "_CFO_NUM_12": 52100,
-      "_CFO_NUM_13": 54840,
+      "_CFO_NUM_0": 94480,
+      "_CFO_NUM_1": 44210,
+      "_CFO_NUM_2": 40290,
+      "_CFO_NUM_3": 37970,
+      "_CFO_NUM_4": 45040,
+      "_CFO_NUM_5": 34200,
+      "_CFO_NUM_6": 46230.5,
+      "_CFO_NUM_7": 28570,
+      "_CFO_NUM_8": 36090,
+      "_CFO_NUM_9": 44800,
+      "_CFO_NUM_10": 46310,
+      "_CFO_NUM_11": 36220,
+      "_CFO_NUM_12": 48850,
+      "_CFO_NUM_13": 52840,
       "CFO": 73.9,
-      "_CFO_NUM_14": 59100,
-      "_CFO_NUM_15": 59580,
+      "_CFO_NUM_14": 57350,
+      "_CFO_NUM_15": 56080,
       "_CFO_NUM_16": 54350,
       "_CFO_NUM_17": 46200,
       "_CFO_FAC_TOTAL": 311360.42095243186,
@@ -14870,16 +15079,6 @@
           "mp": "CAOLINO OT 80",
           "quintali": 23640,
           "cfoPartiale": 7.6
-        },
-        {
-          "mp": "SAINT GAUDENS VERDE F.L.",
-          "quintali": 20730,
-          "cfoPartiale": 6.7
-        },
-        {
-          "mp": "MERCER ROSENTHAL",
-          "quintali": 17410,
-          "cfoPartiale": 5.6
         },
         {
           "mp": "TITANIO TYR 588",
@@ -14937,16 +15136,6 @@
           "cfoPartiale": 0.1
         },
         {
-          "mp": "METSA F.L. FSC",
-          "quintali": 250,
-          "cfoPartiale": 0.1
-        },
-        {
-          "mp": "IMPERIAL ANCHOR FIBRA LUNGA",
-          "quintali": 240,
-          "cfoPartiale": 0.1
-        },
-        {
           "mp": "NERO OSSIDO 77",
           "quintali": 180,
           "cfoPartiale": 0.1
@@ -14972,9 +15161,75 @@
           "cfoPartiale": 0
         }
       ],
+      "_TRB_BDG_Macchina1_0": 849000,
+      "TRB": 104.7,
+      "_TRB_BDG_Macchina2_0": 3658000,
+      "_TRB_BDG_Forno3_0": 354000,
+      "_TRB_BDG_Forno6_0": 616000,
+      "_TRB_BDG_Macchina1_1": 584000,
+      "_TRB_BDG_Macchina2_1": 4366000,
+      "_TRB_BDG_Forno3_1": 377000,
+      "_TRB_BDG_Forno6_1": 700000,
+      "_TRB_BDG_Macchina1_2": 589000,
+      "_TRB_BDG_Macchina2_2": 4588000,
+      "_TRB_BDG_Forno3_2": 435000,
+      "_TRB_BDG_Forno6_2": 724000,
+      "_TRB_BDG_Macchina1_3": 583333.3333333334,
+      "_TRB_BDG_Macchina2_3": 4386666.666666666,
+      "_TRB_BDG_Forno3_3": 441000,
+      "_TRB_BDG_Forno6_3": 656000,
+      "_TRB_BDG_Macchina1_4": 625000,
+      "_TRB_BDG_Macchina2_4": 4700000,
+      "_TRB_BDG_Forno3_4": 441000,
+      "_TRB_BDG_Forno6_4": 656000,
+      "_TRB_BDG_Macchina1_5": 604166.6666666666,
+      "_TRB_BDG_Macchina2_5": 4543333.333333334,
+      "_TRB_BDG_Forno3_5": 441000,
+      "_TRB_BDG_Forno6_5": 656000,
+      "_TRB_BDG_Macchina1_6": 645833.3333333335,
+      "_TRB_BDG_Macchina2_6": 4856666.666666666,
+      "_TRB_BDG_Forno3_6": 441000,
+      "_TRB_BDG_Forno6_6": 656000,
+      "_TRB_BDG_Macchina1_7": 312500,
+      "_TRB_BDG_Macchina2_7": 2350000,
+      "_TRB_BDG_Forno3_7": 441000,
+      "_TRB_BDG_Forno6_7": 656000,
+      "_TRB_BDG_Macchina1_8": 625000,
+      "_TRB_BDG_Macchina2_8": 4700000,
+      "_TRB_BDG_Forno3_8": 441000,
+      "_TRB_BDG_Forno6_8": 656000,
+      "_TRB_BDG_Macchina1_9": 645833.3333333335,
+      "_TRB_BDG_Macchina2_9": 4856666.666666666,
+      "_TRB_BDG_Forno3_9": 441000,
+      "_TRB_BDG_Forno6_9": 656000,
+      "_TRB_BDG_Macchina1_10": 604166.6666666666,
+      "_TRB_BDG_Macchina2_10": 4543333.333333334,
+      "_TRB_BDG_Forno3_10": 441000,
+      "_TRB_BDG_Forno6_10": 656000,
+      "_TRB_BDG_Macchina1_11": 479166.6666666667,
+      "_TRB_BDG_Macchina2_11": 3603333.3333333335,
+      "_TRB_BDG_Forno3_11": 441000,
+      "_TRB_BDG_Forno6_11": 656000,
+      "_TRB_BDG_Macchina1_12": 1264454.545454545,
+      "_TRB_BDG_Macchina2_12": 4589727.272727274,
+      "_TRB_BDG_Forno6_12": 786000,
+      "_TRB_BDG_Macchina1_13": 1264454.545454545,
+      "_TRB_BDG_Macchina2_13": 4589727.272727274,
+      "_TRB_BDG_Forno6_13": 786000,
+      "_TRB_BDG_Macchina1_14": 1264454.545454545,
+      "_TRB_BDG_Macchina2_14": 4589727.272727274,
+      "_TRB_BDG_Forno6_14": 786000,
+      "_TRB_BDG_Macchina1_15": 1264454.545454545,
+      "_TRB_BDG_Macchina2_15": 4589727.272727274,
+      "_TRB_BDG_Forno6_15": 786000,
+      "_TRB_BDG_Macchina1_16": 1264454.545454545,
+      "_TRB_BDG_Macchina2_16": 4589727.272727274,
+      "_TRB_BDG_Forno6_16": 786000,
+      "_TRB_BDG_Macchina1_17": 1264454.545454545,
+      "_TRB_BDG_Macchina2_17": 4589727.272727274,
+      "_TRB_BDG_Forno6_17": 786000,
       "_GA_BY_ART": {
         "0": {
-          "10010000": 1895.6899999999998,
           "10020000": 3772.2000000000003,
           "10050101": 867.8,
           "10060101": 1629,
@@ -14990,7 +15245,6 @@
           "30020402": 2264.3999999999996
         },
         "1": {
-          "10010000": 2134.44,
           "10020000": 4040.3499999999995,
           "10050101": 876,
           "10060101": 1639.62,
@@ -15005,7 +15259,6 @@
           "30020402": 2258
         },
         "2": {
-          "10010000": 1170.77,
           "10020000": 1669.0099999999998,
           "10050101": 535.2,
           "10060101": 2716.9199999999996,
@@ -15021,7 +15274,6 @@
           "30040401": 240
         },
         "3": {
-          "10010000": 961.7499999999999,
           "10020000": 1916.06,
           "10060101": 2213.8800000000006,
           "10070101": 1907.9899999999998,
@@ -15037,7 +15289,6 @@
           "30040401": 240
         },
         "4": {
-          "10010000": 941.54,
           "10020000": 2094.2000000000003,
           "10050101": 1782.6,
           "10060101": 3823.7400000000007,
@@ -15054,7 +15305,6 @@
           "30040401": 240
         },
         "5": {
-          "10010000": 954.5,
           "10020000": 1408.42,
           "10050101": 292,
           "10060101": 2710.92,
@@ -15068,7 +15318,6 @@
           "30020402": 2536.2
         },
         "6": {
-          "10010000": 1429.83,
           "10020000": 4198.96,
           "10060101": 3566.58,
           "10070101": 2265.9500000000003,
@@ -15083,7 +15332,6 @@
           "30040401": 240
         },
         "7": {
-          "10010000": 478.52,
           "10020000": 1196.37,
           "10060101": 547.2,
           "10080101": 937.95,
@@ -15093,7 +15341,6 @@
           "30020402": 569.6
         },
         "8": {
-          "10010000": 1440.15,
           "10020000": 2400,
           "10050101": 1848.8,
           "10060101": 2465.8800000000006,
@@ -15108,7 +15355,6 @@
           "30040401": 240
         },
         "9": {
-          "10010000": 1503.09,
           "10020000": 4458.990000000001,
           "10050101": 1209.3999999999999,
           "10060101": 2726.8199999999997,
@@ -15125,7 +15371,6 @@
           "30040401": 240
         },
         "10": {
-          "10010000": 1437.82,
           "10020000": 1500,
           "10060101": 4137.300000000001,
           "10070101": 265.33,
@@ -15138,7 +15383,6 @@
           "30020402": 2273
         },
         "11": {
-          "10010000": 2393.49,
           "10020000": 4800,
           "10060101": 1377.84,
           "10080101": 2690.26,
@@ -15151,7 +15395,6 @@
           "30040401": 240
         },
         "12": {
-          "10010000": 2878.34,
           "10020000": 4785.330000000001,
           "10060101": 812.4,
           "10060102": 1651.4,
@@ -15164,7 +15407,6 @@
           "30020402": 1983
         },
         "13": {
-          "10010000": 1926.9200000000003,
           "10020000": 5089.28,
           "10060101": 6385.4,
           "10070101": 458.79999999999995,
@@ -15179,7 +15421,6 @@
           "30040401": 480
         },
         "14": {
-          "10010000": 1678.1299999999999,
           "10020000": 5084.3,
           "10060101": 1568.9,
           "10060102": 553.4000000000001,
@@ -15194,7 +15435,6 @@
           "30020402": 2576
         },
         "15": {
-          "10010000": 2399.1600000000003,
           "10020000": 3289.12,
           "10060101": 3044.2999999999997,
           "10070101": 623,
@@ -15209,7 +15449,6 @@
           "30040401": 480
         },
         "16": {
-          "10010000": 958.9000000000001,
           "10020000": 3592.86,
           "10060101": 2639.46,
           "10060102": 551.4000000000001,
@@ -15237,136 +15476,100 @@
           "30020402": 2548.2
         }
       },
-      "_GA_NUM_0": 42500.88000000002,
-      "_GA_NUM_1": 39042.98000000001,
-      "_GA_NUM_2": 40386.159999999996,
-      "_GA_NUM_3": 41623.179999999986,
-      "_GA_NUM_4": 44895.530000000006,
-      "_GA_NUM_5": 41848.62000000001,
-      "_GA_NUM_6": 42698.630000000034,
-      "_GA_NUM_7": 18336.42,
-      "_GA_NUM_8": 46203.17000000002,
-      "_GA_NUM_9": 58446.88,
-      "_GA_NUM_10": 38918.67000000001,
-      "_GA_NUM_11": 27641.490000000016,
-      "_GA_NUM_12": 45163.689999999995,
-      "_GA_NUM_13": 64509.880000000034,
+      "_GA_NUM_0": 40605.19000000002,
+      "_GA_NUM_1": 36908.54000000001,
+      "_GA_NUM_2": 39215.38999999999,
+      "_GA_NUM_3": 40661.42999999999,
+      "_GA_NUM_4": 43953.99000000001,
+      "_GA_NUM_5": 40894.12,
+      "_GA_NUM_6": 41268.80000000004,
+      "_GA_NUM_7": 17857.899999999998,
+      "_GA_NUM_8": 44763.020000000026,
+      "_GA_NUM_9": 56943.79,
+      "_GA_NUM_10": 37480.85,
+      "_GA_NUM_11": 25248.00000000001,
+      "_GA_NUM_12": 42285.350000000006,
+      "_GA_NUM_13": 62582.96000000003,
       "GA": 73.4,
-      "_GA_NUM_14": 49873.76999999999,
-      "_GA_NUM_15": 55585.47999999999,
-      "_GA_NUM_16": 56619.44999999998,
+      "_GA_NUM_14": 48195.639999999985,
+      "_GA_NUM_15": 53186.319999999985,
+      "_GA_NUM_16": 55660.54999999999,
       "_GA_NUM_17": 45900.399999999994,
-      "LT": -5.5,
-      "_DSO_NUM": 23845907.529999997,
+      "LT": -0.9,
+      "_DSO_NUM": 22740568.880000006,
       "_DSO_BY_CLIENT": {
         "12": {
-          "ARPA INDUSTRIALE SPA": 0,
           "PURICELLI S.R.L.": 24766.55,
-          "UNILIN BVBADivision Panel": 0,
-          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 457443.85,
+          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 0,
           "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": -10306.33,
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 332.32,
-          "SURFACTOR ASIA PACIFIC SDN.BHD.": 1284.25
+          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 0,
+          "SURFACTOR ASIA PACIFIC SDN.BHD.": 209.3399999999997
         },
         "13": {
-          "ARPA INDUSTRIALE SPA": 1128152.76,
+          "ARPA INDUSTRIALE SPA": 0,
           "PURICELLI S.R.L.": 301686.86,
-          "CHIMICA POMPONESCO SPA": 0,
-          "NEODECORTECH SPA": 0,
           "NIKKA ROSE LAPITAN": 100,
-          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 553217.55,
+          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 260412.13999999998,
           "KULSAN MELAMIN PLASTIK SAN.TIC.COMEKARAAGAC OSB MAHALLESI 101 CADDE": -60.36000000000058,
-          "FORMICA LIMITED": 0,
-          "LAMTUF LIMITEDPLOT NO 8,9,10 AND 11 SILICON": 0,
           "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": -1967.45,
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 32553.84999999999,
+          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 0,
           "JIANGSU BODA NEW MATERIALS TECHNOLOGY CO.,LTD-NO.8 NEW HENGCUI ROAD": -359.10000000000036,
           "EGGER PANNEAUX & DECORS S.A.S": 10750.51
         },
         "14": {
-          "ARPA INDUSTRIALE SPA": 994194.57,
-          "CLEAF SPA": 0,
-          "GRUPPO MAURO SAVIOLA srl": 0,
-          "SM'art S.r.l.": 0,
-          "NEODECORTECH SPA": 38973.71,
-          "UNILIN BVBADivision Panel": 0,
+          "ARPA INDUSTRIALE SPA": 1001145.3099999998,
+          "NEODECORTECH SPA": 0,
           "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 248437.33000000002,
-          "FORMICA LIMITED": 0,
           "LAMTUF LIMITEDPLOT NO 8,9,10 AND 11 SILICON": -28,
           "GREENPANEL INDUSTRIES LTD.UNIT-II,PLOT NO 2,INTEGRATED IND.ESTATE,": 35640.43,
-          "POLYREY SAS": 0,
           "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": 186568.45,
           "SHANGHAI FORMICA DECO MAT CO.": -488.58,
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 504013.4299999999,
+          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 0,
           "CROWN DECOR PVT LTD.419/1,419/7,RADHE INDUSTRIAL ESTATE": -310,
-          "ALMILL DOO MILICI, BIH": 0,
           "EGGER PANNEAUX & DECORS S.A.S": -41953.020000000004
         },
         "15": {
-          "ABET LAMINATI SPA": 0,
-          "ARPA INDUSTRIALE SPA": 970555.4500000001,
-          "LAMICOLOR SPA": 0,
-          "LOMBARDO SPA": 15405.67,
-          "LA-CON SPALAMINATI CONTINUI": 0,
-          "CLEAF SPA": 799669.8,
+          "ARPA INDUSTRIALE SPA": 971714.37,
+          "LOMBARDO SPA": 0,
+          "CLEAF SPA": 0,
           "CHIMICA POMPONESCO SPA": 8443.62,
-          "GRUPPO MAURO SAVIOLA srl": 134930,
+          "GRUPPO MAURO SAVIOLA srl": 0,
           "BARTOLI S.P.A.": 24948,
-          "TRE EMME Srl": 0,
-          "SM'art S.r.l.": 207998.47999999998,
+          "SM'art S.r.l.": 0,
           "NEODECORTECH SPA": 55616.03,
           "SAFER GROUP SRL": 727.2,
-          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": 0,
-          "WESTAG AG": 0,
+          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 537292.49,
+          "KULSAN MELAMIN PLASTIK SAN.TIC.COMEKARAAGAC OSB MAHALLESI 101 CADDE": -7298.639999999999,
+          "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": 45657.6,
+          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 630271.7799999999,
+          "PT.TACO ANUGRAH CORPORINDO KAWASANINDUSTRI MODERN CIKANDE JL.MODERN": 165.5,
+          "GN GREEN GMBH": 439.619999999999
+        },
+        "16": {
+          "ABET LAMINATI SPA": 0,
+          "ARPA INDUSTRIALE SPA": 974212.05,
+          "LAMICOLOR SPA": 0,
+          "LA-CON SPALAMINATI CONTINUI": 0,
+          "CLEAF SPA": 568889.8200000001,
+          "GRUPPO MAURO SAVIOLA srl": 97991.28,
+          "BARTOLI S.P.A.": 27799.13,
+          "SM'art S.r.l.": 234552.79,
+          "NEODECORTECH SPA": 15846.45,
+          "CONSORZIO ENERGY PAPER S.C.A.R.L.": 0,
+          "DI Dekodur International GmbH & Co.KG": 0,
           "FUNDERMAX  GmbH": 0,
           "F I N S ACARRETERA A CORUNA TUI, KM. 57": 0,
           "TACON DECOR, S.L": 0,
           "UNILIN BVBADivision Panel": 0,
-          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 536103.24,
-          "KULSAN MELAMIN PLASTIK SAN.TIC.COMEKARAAGAC OSB MAHALLESI 101 CADDE": -7298.639999999999,
-          "PFLEIDERER LEUTKIRCH GMBH": 0,
-          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": 0,
-          "DAESHIN MELAMINE INDUSTRIAL CO.,LTD168B-14L, 734-1, KOJAN-DONG": 0,
-          "POLYREY SAS": 0,
-          "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": 45657.6,
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 684356.7,
-          "PT.TACO ANUGRAH CORPORINDO KAWASANINDUSTRI MODERN CIKANDE JL.MODERN": 165.5,
-          "GN GREEN GMBH": 439.619999999999,
-          "EGGER PANNEAUX & DECORS S.A.S": 0
-        },
-        "16": {
-          "ABET LAMINATI SPA": 840853.4299999999,
-          "ARPA INDUSTRIALE SPA": 974212.05,
-          "LAMICOLOR SPA": 383030.07999999996,
-          "LA-CON SPALAMINATI CONTINUI": 63039.13,
-          "CLEAF SPA": 568889.8200000001,
-          "GRUPPO MAURO SAVIOLA srl": 96880.51,
-          "BARTOLI S.P.A.": 27799.13,
-          "TRE EMME Srl": 0,
-          "TURIN CARTA SRL": 0,
-          "SM'art S.r.l.": 232797.47,
-          "NEODECORTECH SPA": 15846.45,
-          "CONSORZIO ENERGY PAPER S.C.A.R.L.": 1133.4199999999983,
-          "SAFER GROUP SRL": 0,
-          "CHIODO S.A.S. DI CHIODO ANGELO& FIGLI": 0,
-          "DI Dekodur International GmbH & Co.KG": 36201.06,
-          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": 0,
-          "FUNDERMAX  GmbH": 287856.77,
-          "F I N S ACARRETERA A CORUNA TUI, KM. 57": 15689.96,
-          "MADERAS MEJORADAS INDUSTRIAL S.A.U.BARRIO SAN MIGUEL 9": 0,
-          "TACON DECOR, S.L": 47205.61,
-          "UNILIN BVBADivision Panel": 90231.19,
           "PURIPLAST HELLAS  AE13 TH KM. NATIONAL RD.": 18937,
           "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 306416.01,
-          "KULSAN MELAMIN PLASTIK SAN.TIC.COMEKARAAGAC OSB MAHALLESI 101 CADDE": 0,
-          "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG": 23130.62,
-          "PFLEIDERER LEUTKIRCH GMBH": 21393.22,
-          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": 23780.79,
-          "SURFORMA, S.A.": 30186.6,
+          "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG": 0,
+          "PFLEIDERER LEUTKIRCH GMBH": 0,
+          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": 0,
+          "SURFORMA, S.A.": 10980.25,
           "LAMTUF LIMITEDPLOT NO 8,9,10 AND 11 SILICON": 22232.88,
-          "POLYREY SAS": 928715.69,
-          "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": 241433.34999999998,
-          "KOKUSAI PULP&PAPER CO., LTDIMPORT GROUP": 0,
+          "POLYREY SAS": 0,
+          "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": -458.45,
           "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 956391.16,
           "WELCOME SRL": 610,
           "GREENLAM LIMITED, PLOT NO.19,19A,19A-1,IP NAIDUPET, MENAKURU VILLAGE": 44800.7,
@@ -15374,58 +15577,92 @@
           "FERRERO ALBERTO": 122
         },
         "17": {
-          "ABET LAMINATI SPA": 1420219.79,
+          "ABET LAMINATI SPA": 1422760.53,
           "ARPA INDUSTRIALE SPA": 1325281.4199999997,
-          "CESAPLAST SPA": 57742.909999999996,
+          "CESAPLAST SPA": 0,
           "LAMICOLOR SPA": 327252.44,
-          "PURICELLI S.R.L.": 31185.26,
-          "LA-CON SPALAMINATI CONTINUI": 64915.94,
+          "PURICELLI S.R.L.": 782.8599999999997,
+          "LA-CON SPALAMINATI CONTINUI": 0,
           "CLEAF SPA": 604862.5,
           "CHIMICA POMPONESCO SPA": 20157.46,
           "DECOR IN PRINTING SPA": 6942.24,
           "GRUPPO MAURO SAVIOLA srl": 99702.43999999999,
-          "TURIN CARTA SRL": 2455.2,
+          "TURIN CARTA SRL": 0,
           "SM'art S.r.l.": 341643.57999999996,
           "NEODECORTECH SPA": 37896.44,
-          "CONSORZIO ENERGY PAPER S.C.A.R.L.": 45621.05,
-          "SIME ENERGIA S.R.L.": 610,
-          "INFRASTRUTTURE WIRELESS ITALIANES.P.A": 0,
-          "SAFER GROUP SRL": 4796.6,
-          "FILIPPI 1971 SRL": 64428.950000000004,
+          "CONSORZIO ENERGY PAPER S.C.A.R.L.": 0,
+          "SIME ENERGIA S.R.L.": 0,
+          "SAFER GROUP SRL": 0,
+          "FILIPPI 1971 SRL": 61250.01,
           "FILP S.R.L.": 1.14,
           "DI Dekodur International GmbH & Co.KG": 37735.83,
-          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": 740066.67,
-          "WESTAG AG": 37663,
+          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": 0,
+          "WESTAG AG": 0,
           "FUNDERMAX  GmbH": 243835.36,
           "F I N S ACARRETERA A CORUNA TUI, KM. 57": 33386.29,
-          "MADERAS MEJORADAS INDUSTRIAL S.A.U.BARRIO SAN MIGUEL 9": 24121.29,
-          "TACON DECOR, S.L": 191901.46,
-          "UNILIN BVBADivision Panel": 390555.95,
-          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 208971.33000000002,
-          "PELIT ARSLAN KONTRPLAK FABRIKASI": 18623,
+          "MADERAS MEJORADAS INDUSTRIAL S.A.U.BARRIO SAN MIGUEL 9": 0,
+          "TACON DECOR, S.L": 48862.91,
+          "UNILIN BVBADivision Panel": 0,
+          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 210269.33000000002,
+          "PELIT ARSLAN KONTRPLAK FABRIKASI": 0,
           "KULSAN MELAMIN PLASTIK SAN.TIC.COMEKARAAGAC OSB MAHALLESI 101 CADDE": 64.27999999999884,
           "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG": 46005.16,
-          "MELATONE LTD.": 32007.15,
-          "PFLEIDERER LEUTKIRCH GMBH": 331025.44999999995,
-          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": 46812.15,
-          "SUNFLOWER CORPORATION12FL. NO.82 SUNG CHIANG RD.,TAIPEI": 15498.9,
+          "MELATONE LTD.": 0,
+          "PFLEIDERER LEUTKIRCH GMBH": 132496.71,
+          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": 0,
+          "SUNFLOWER CORPORATION12FL. NO.82 SUNG CHIANG RD.,TAIPEI": 0,
           "SURFORMA, S.A.": 23247.36,
-          "GUANGZHOU G AND P NEW COMPOSITEMATERIAL CO.,LTD NO.2435,2 FLOOR,": 29136.74,
+          "GUANGZHOU G AND P NEW COMPOSITEMATERIAL CO.,LTD NO.2435,2 FLOOR,": 0,
           "GREENPANEL INDUSTRIES LTD.UNIT-II,PLOT NO 2,INTEGRATED IND.ESTATE,": 35578.48,
-          "POLYREY SAS": 485417.75,
-          "SHANGHAI FORMICA DECO MAT CO.": 27680.51,
+          "POLYREY SAS": 419877.64,
+          "SHANGHAI FORMICA DECO MAT CO.": 0,
           "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 542786.5900000001,
           "CROWN DECOR PVT LTD.419/1,419/7,RADHE INDUSTRIAL ESTATE": 54965.44,
-          "ZHEJIANG REXIN DECOR.MATERIAL.CO.LTD,N.669 DONGFANG RD,YAOZHUANG": 28918.53,
-          "GREENLAM LIMITED, PLOT NO.19,19A,19A-1,IP NAIDUPET, MENAKURU VILLAGE": 49140.55,
+          "GREENLAM LIMITED, PLOT NO.19,19A,19A-1,IP NAIDUPET, MENAKURU VILLAGE": 0,
           "ALMILL DOO MILICI, BIH": 0,
           "EGGER PANNEAUX & DECORS S.A.S": -22476.04,
           "VIRGO LAMINATES LIMITEDSOKHADA VILLAGE,AHMEDABAD NADIAD": 461.1400000000003,
-          "SHANGHAI EAST BEST FOREIGN TRADECO.,LTD.": 0,
-          "D.TRADING D.O.O.": 103479.44
+          "D.TRADING D.O.O.": 0
         },
         "18": {
-          "PURICELLI S.R.L.": 493508.31000000006
+          "ABET LAMINATI SPA": 1435582.49,
+          "ARPA INDUSTRIALE SPA": 1071818.7299999997,
+          "CESAPLAST SPA": 99181.23,
+          "LAMICOLOR SPA": 379033.01999999996,
+          "PURICELLI S.R.L.": 650607.2200000001,
+          "CLEAF SPA": 516423.55,
+          "CHIMICA POMPONESCO SPA": 12034.08,
+          "DECOR IN PRINTING SPA": 6955.53,
+          "GRUPPO MAURO SAVIOLA srl": 66592.22,
+          "TURIN CARTA SRL": 3291.84,
+          "SM'art S.r.l.": 102983.12,
+          "NEODECORTECH SPA": 42216.82000000001,
+          "CONSORZIO ENERGY PAPER S.C.A.R.L.": 65074.95,
+          "SAFER GROUP SRL": 3101.4,
+          "EUROCAR ITALIA SRL": 18500,
+          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": 598977.29,
+          "WESTAG AG": 43316,
+          "FUNDERMAX  GmbH": 83393.04,
+          "F I N S ACARRETERA A CORUNA TUI, KM. 57": 16365.83,
+          "MADERAS MEJORADAS INDUSTRIAL S.A.U.BARRIO SAN MIGUEL 9": 45531.6,
+          "TACON DECOR, S.L": 93456.38,
+          "UNILIN BVBADivision Panel": 448154.25,
+          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": 207322.24,
+          "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG": -43292.07,
+          "FORMICA LIMITED": 29481.92,
+          "MELATONE LTD.": 23427.32,
+          "PFLEIDERER LEUTKIRCH GMBH": 132146.25,
+          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": 130520.60999999999,
+          "POLYREY SAS": 381214.51,
+          "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": 347823.8,
+          "KOKUSAI PULP&PAPER CO., LTDIMPORT GROUP": 16721.559999999998,
+          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": 1052029.7299999997,
+          "PT.TACO ANUGRAH CORPORINDO KAWASANINDUSTRI MODERN CIKANDE JL.MODERN": 55253.2,
+          "JIANGSU BODA NEW MATERIALS TECHNOLOGY CO.,LTD-NO.8 NEW HENGCUI ROAD": 32352.99,
+          "MERINO INDUSTRIES LIMITED,VILLAGE-ACHHEJA, DELHI HAPUR ROAD": 54182.25,
+          "ALMILL DOO MILICI, BIH": 0,
+          "WM-RECYCLE AMERICA L.L.C.WASTE MANAGEMENT": 1800,
+          "NIHON DECOLUXE-KOKUSAI PULP & PAPERCO.,LTD.": 0.44
         },
         "19": {
           "PURICELLI S.R.L.": 84200.24,
@@ -15443,378 +15680,495 @@
         },
         "22": {
           "PURICELLI S.R.L.": 242496.46,
-          "ZHEJIANG REXIN DECOR.MATERIAL.CO.LTD,N.669 DONGFANG RD,YAOZHUANG": 87.40000000000146
+          "ZHEJIANG REXIN DECOR.MATERIAL.CO.LTD,N.669 DONGFANG RD,YAOZHUANG": 10.529999999998836
         },
         "23": {
           "PURICELLI S.R.L.": 130644.45999999999,
           "CEDAR DECOR PVT.LTDBLOCK/SURVEY NO.560,561 AND 562,": 431.5199999999995
         }
       },
-      "DSO": 191.9,
-      "RMP": 51.8,
+      "DSO": 157.6,
+      "RMP": 61.3,
       "_RMP_CLIENTI": [
         {
           "fornitore": "FERRERO ALBERTO",
-          "media": 374,
+          "media": 429,
           "n": 1
         },
         {
           "fornitore": "PURIPLAST HELLAS  AE13 TH KM. NATIONAL RD.",
-          "media": 302,
+          "media": 357,
           "n": 1
         },
         {
           "fornitore": "NIKKA ROSE LAPITAN",
-          "media": 135,
+          "media": 190,
           "n": 1
         },
         {
           "fornitore": "PURICELLI S.R.L.",
-          "media": 120.8,
-          "n": 24
+          "media": 180.2,
+          "n": 23
         },
         {
-          "fornitore": "EGGER PANNEAUX & DECORS S.A.S",
-          "media": 94,
+          "fornitore": "SURFACTOR ASIA PACIFIC SDN.BHD.",
+          "media": 161,
           "n": 1
         },
         {
           "fornitore": "GREENPANEL INDUSTRIES LTD.UNIT-II,PLOT NO 2,INTEGRATED IND.ESTATE,",
-          "media": 52,
+          "media": 107,
           "n": 1
         },
         {
+          "fornitore": "EGGER PANNEAUX & DECORS S.A.S",
+          "media": 99.5,
+          "n": 2
+        },
+        {
           "fornitore": "WELCOME SRL",
-          "media": 40,
+          "media": 95,
           "n": 1
         },
         {
           "fornitore": "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA",
-          "media": 39.5,
+          "media": 94.5,
           "n": 2
         },
         {
-          "fornitore": "ALMILL DOO MILICI, BIH",
-          "media": 38,
-          "n": 1
-        },
-        {
-          "fornitore": "SIME ENERGIA S.R.L.",
-          "media": 36,
+          "fornitore": "FILP S.R.L.",
+          "media": 75,
           "n": 1
         },
         {
           "fornitore": "SAFER GROUP SRL",
-          "media": 34,
-          "n": 4
-        },
-        {
-          "fornitore": "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.",
-          "media": 27.3,
-          "n": 15
-        },
-        {
-          "fornitore": "D.TRADING D.O.O.",
-          "media": 24,
-          "n": 1
-        },
-        {
-          "fornitore": "FILP S.R.L.",
-          "media": 20,
-          "n": 1
-        },
-        {
-          "fornitore": "FUNDERMAX  GmbH",
-          "media": 18,
-          "n": 1
-        },
-        {
-          "fornitore": "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.",
-          "media": 17.3,
-          "n": 27
-        },
-        {
-          "fornitore": "UNILIN BVBADivision Panel",
-          "media": 16.3,
-          "n": 4
-        },
-        {
-          "fornitore": "ZHEJIANG REXIN DECOR.MATERIAL.CO.LTD,N.669 DONGFANG RD,YAOZHUANG",
-          "media": 14,
-          "n": 1
+          "media": 61,
+          "n": 5
         },
         {
           "fornitore": "DI Dekodur International GmbH & Co.KG",
-          "media": 10,
-          "n": 1
-        },
-        {
-          "fornitore": "TACON DECOR, S.L",
-          "media": 10,
-          "n": 1
-        },
-        {
-          "fornitore": "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG",
-          "media": 10,
-          "n": 1
-        },
-        {
-          "fornitore": "SURFORMA, S.A.",
-          "media": 10,
+          "media": 45,
           "n": 1
         },
         {
           "fornitore": "CLEAF SPA",
-          "media": 9.6,
-          "n": 7
+          "media": 40,
+          "n": 5
+        },
+        {
+          "fornitore": "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.",
+          "media": 37.3,
+          "n": 13
+        },
+        {
+          "fornitore": "EUROCAR ITALIA SRL",
+          "media": 35,
+          "n": 1
+        },
+        {
+          "fornitore": "FILIPPI 1971 SRL",
+          "media": 34,
+          "n": 1
+        },
+        {
+          "fornitore": "JIANGSU BODA NEW MATERIALS TECHNOLOGY CO.,LTD-NO.8 NEW HENGCUI ROAD",
+          "media": 34,
+          "n": 1
+        },
+        {
+          "fornitore": "ALMILL DOO MILICI, BIH",
+          "media": 34,
+          "n": 1
         },
         {
           "fornitore": "ABET LAMINATI SPA",
-          "media": 9,
-          "n": 4
+          "media": 33,
+          "n": 5
         },
         {
           "fornitore": "LAMICOLOR SPA",
-          "media": 9,
-          "n": 4
-        },
-        {
-          "fornitore": "LOMBARDO SPA",
-          "media": 9,
-          "n": 1
-        },
-        {
-          "fornitore": "LA-CON SPALAMINATI CONTINUI",
-          "media": 9,
-          "n": 1
+          "media": 33,
+          "n": 5
         },
         {
           "fornitore": "SM'art S.r.l.",
+          "media": 33,
+          "n": 3
+        },
+        {
+          "fornitore": "SURFORMA, S.A.",
+          "media": 33,
+          "n": 2
+        },
+        {
+          "fornitore": "PT.TACO ANUGRAH CORPORINDO KAWASANINDUSTRI MODERN CIKANDE JL.MODERN",
+          "media": 33,
+          "n": 1
+        },
+        {
+          "fornitore": "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG",
+          "media": 30,
+          "n": 1
+        },
+        {
+          "fornitore": "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.",
+          "media": 29.7,
+          "n": 37
+        },
+        {
+          "fornitore": "FUNDERMAX  GmbH",
+          "media": 25,
+          "n": 3
+        },
+        {
+          "fornitore": "TURIN CARTA SRL",
+          "media": 24.3,
+          "n": 3
+        },
+        {
+          "fornitore": "LAMTUF LIMITEDPLOT NO 8,9,10 AND 11 SILICON",
+          "media": 24,
+          "n": 1
+        },
+        {
+          "fornitore": "KOKUSAI PULP&PAPER CO., LTDIMPORT GROUP",
+          "media": 21,
+          "n": 1
+        },
+        {
+          "fornitore": "MADERAS MEJORADAS INDUSTRIAL S.A.U.BARRIO SAN MIGUEL 9",
+          "media": 20.5,
+          "n": 2
+        },
+        {
+          "fornitore": "UNILIN BVBADivision Panel",
+          "media": 20.5,
+          "n": 4
+        },
+        {
+          "fornitore": "TACON DECOR, S.L",
+          "media": 20.3,
+          "n": 3
+        },
+        {
+          "fornitore": "PFLEIDERER LEUTKIRCH GMBH",
+          "media": 18.3,
+          "n": 3
+        },
+        {
+          "fornitore": "NIHON DECOLUXE-KOKUSAI PULP & PAPERCO.,LTD.",
+          "media": 17,
+          "n": 1
+        },
+        {
+          "fornitore": "WESTAG AG",
+          "media": 16,
+          "n": 1
+        },
+        {
+          "fornitore": "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A",
           "media": 9,
           "n": 3
         },
         {
           "fornitore": "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG",
-          "media": 4,
+          "media": 8.3,
+          "n": 4
+        },
+        {
+          "fornitore": "F I N S ACARRETERA A CORUNA TUI, KM. 57",
+          "media": 8,
           "n": 1
+        },
+        {
+          "fornitore": "MELATONE LTD.",
+          "media": 3,
+          "n": 1
+        },
+        {
+          "fornitore": "CONSORZIO ENERGY PAPER S.C.A.R.L.",
+          "media": 2,
+          "n": 1
+        },
+        {
+          "fornitore": "FORMICA LIMITED",
+          "media": 2,
+          "n": 1
+        },
+        {
+          "fornitore": "POLYREY SAS",
+          "media": 2,
+          "n": 3
         }
       ],
       "_RMP_SERIES": {
         "12": {
           "PURICELLI S.R.L.": {
-            "sum": 60,
+            "sum": 115,
             "cnt": 1
           },
-          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": {
-            "sum": 279,
-            "cnt": 6
-          },
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": {
-            "sum": 72,
+          "SURFACTOR ASIA PACIFIC SDN.BHD.": {
+            "sum": 161,
             "cnt": 1
           }
         },
         "13": {
           "PURICELLI S.R.L.": {
-            "sum": 145,
+            "sum": 420,
             "cnt": 5
           },
           "NIKKA ROSE LAPITAN": {
-            "sum": 135,
+            "sum": 190,
             "cnt": 1
           },
           "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": {
-            "sum": 119,
-            "cnt": 6
-          },
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": {
-            "sum": 14,
-            "cnt": 1
+            "sum": 166,
+            "cnt": 3
           },
           "EGGER PANNEAUX & DECORS S.A.S": {
-            "sum": 94,
+            "sum": 149,
             "cnt": 1
           }
         },
         "14": {
           "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": {
-            "sum": 11,
+            "sum": 176,
             "cnt": 3
           },
           "GREENPANEL INDUSTRIES LTD.UNIT-II,PLOT NO 2,INTEGRATED IND.ESTATE,": {
-            "sum": 52,
+            "sum": 107,
             "cnt": 1
           },
           "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": {
-            "sum": 40,
+            "sum": 95,
             "cnt": 1
-          },
-          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": {
-            "sum": 337,
-            "cnt": 17
           }
         },
         "15": {
-          "LOMBARDO SPA": {
-            "sum": 9,
-            "cnt": 1
-          },
-          "CLEAF SPA": {
-            "sum": 54,
-            "cnt": 6
-          },
-          "SM'art S.r.l.": {
-            "sum": 27,
-            "cnt": 3
-          },
           "SAFER GROUP SRL": {
-            "sum": 76,
+            "sum": 131,
             "cnt": 1
+          },
+          "GENTAS DEKORATIF YUZEYLER SANAYI veTICARET A.S.": {
+            "sum": 143,
+            "cnt": 7
           },
           "GREENLAM INDUSTRIES LTD,VILLAGE PATERH BHONKU,P.O.PANJHERA": {
-            "sum": 39,
+            "sum": 94,
             "cnt": 1
           },
           "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": {
-            "sum": 43,
-            "cnt": 8
+            "sum": 783,
+            "cnt": 16
           }
         },
         "16": {
-          "ABET LAMINATI SPA": {
-            "sum": 36,
+          "CLEAF SPA": {
+            "sum": 132,
             "cnt": 4
           },
-          "LAMICOLOR SPA": {
-            "sum": 36,
-            "cnt": 4
-          },
-          "LA-CON SPALAMINATI CONTINUI": {
-            "sum": 9,
-            "cnt": 1
-          },
-          "DI Dekodur International GmbH & Co.KG": {
-            "sum": 10,
-            "cnt": 1
-          },
-          "FUNDERMAX  GmbH": {
-            "sum": 18,
-            "cnt": 1
-          },
-          "TACON DECOR, S.L": {
-            "sum": 10,
-            "cnt": 1
-          },
-          "UNILIN BVBADivision Panel": {
-            "sum": 57,
-            "cnt": 2
+          "SM'art S.r.l.": {
+            "sum": 99,
+            "cnt": 3
           },
           "PURIPLAST HELLAS  AE13 TH KM. NATIONAL RD.": {
-            "sum": 302,
-            "cnt": 1
-          },
-          "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG": {
-            "sum": 10,
+            "sum": 357,
             "cnt": 1
           },
           "SURFORMA, S.A.": {
-            "sum": 10,
+            "sum": 21,
             "cnt": 1
           },
+          "LAMTUF LIMITEDPLOT NO 8,9,10 AND 11 SILICON": {
+            "sum": 24,
+            "cnt": 1
+          },
+          "ASD LAMINAT.A.S.YESILKOY MAH.ATATURK CAD.IDTM BLOK.": {
+            "sum": 315,
+            "cnt": 21
+          },
           "WELCOME SRL": {
-            "sum": 40,
+            "sum": 95,
+            "cnt": 1
+          },
+          "EGGER PANNEAUX & DECORS S.A.S": {
+            "sum": 50,
             "cnt": 1
           },
           "FERRERO ALBERTO": {
-            "sum": 374,
+            "sum": 429,
             "cnt": 1
           }
         },
         "17": {
-          "PURICELLI S.R.L.": {
-            "sum": 20,
-            "cnt": 1
+          "ABET LAMINATI SPA": {
+            "sum": 165,
+            "cnt": 5
+          },
+          "LAMICOLOR SPA": {
+            "sum": 165,
+            "cnt": 5
           },
           "CLEAF SPA": {
-            "sum": 13,
+            "sum": 68,
             "cnt": 1
           },
-          "SIME ENERGIA S.R.L.": {
-            "sum": 36,
+          "FILIPPI 1971 SRL": {
+            "sum": 34,
             "cnt": 1
-          },
-          "SAFER GROUP SRL": {
-            "sum": 60,
-            "cnt": 3
           },
           "FILP S.R.L.": {
-            "sum": 20,
+            "sum": 75,
             "cnt": 1
           },
-          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": {
-            "sum": 4,
+          "DI Dekodur International GmbH & Co.KG": {
+            "sum": 45,
             "cnt": 1
           },
-          "UNILIN BVBADivision Panel": {
+          "FUNDERMAX  GmbH": {
+            "sum": 34,
+            "cnt": 1
+          },
+          "F I N S ACARRETERA A CORUNA TUI, KM. 57": {
             "sum": 8,
-            "cnt": 2
-          },
-          "ZHEJIANG REXIN DECOR.MATERIAL.CO.LTD,N.669 DONGFANG RD,YAOZHUANG": {
-            "sum": 14,
             "cnt": 1
           },
-          "ALMILL DOO MILICI, BIH": {
-            "sum": 38,
+          "TACON DECOR, S.L": {
+            "sum": 34,
             "cnt": 1
           },
-          "D.TRADING D.O.O.": {
-            "sum": 24,
+          "EGGER HOLZWERKSTOFFE WISMARGmbH & Co.KG": {
+            "sum": 30,
             "cnt": 1
+          },
+          "PFLEIDERER LEUTKIRCH GMBH": {
+            "sum": 30,
+            "cnt": 1
+          },
+          "SURFORMA, S.A.": {
+            "sum": 45,
+            "cnt": 1
+          },
+          "POLYREY SAS": {
+            "sum": 6,
+            "cnt": 3
           }
         },
         "18": {
           "PURICELLI S.R.L.": {
-            "sum": 723,
+            "sum": 888,
             "cnt": 3
+          },
+          "TURIN CARTA SRL": {
+            "sum": 73,
+            "cnt": 3
+          },
+          "CONSORZIO ENERGY PAPER S.C.A.R.L.": {
+            "sum": 2,
+            "cnt": 1
+          },
+          "SAFER GROUP SRL": {
+            "sum": 174,
+            "cnt": 4
+          },
+          "EUROCAR ITALIA SRL": {
+            "sum": 35,
+            "cnt": 1
+          },
+          "HANS SCHMID KG. GMBH UND CO.KUNSTSTOFFVERARBEITUNG": {
+            "sum": 33,
+            "cnt": 4
+          },
+          "WESTAG AG": {
+            "sum": 16,
+            "cnt": 1
+          },
+          "FUNDERMAX  GmbH": {
+            "sum": 41,
+            "cnt": 2
+          },
+          "MADERAS MEJORADAS INDUSTRIAL S.A.U.BARRIO SAN MIGUEL 9": {
+            "sum": 41,
+            "cnt": 2
+          },
+          "TACON DECOR, S.L": {
+            "sum": 27,
+            "cnt": 2
+          },
+          "UNILIN BVBADivision Panel": {
+            "sum": 82,
+            "cnt": 4
+          },
+          "FORMICA LIMITED": {
+            "sum": 2,
+            "cnt": 1
+          },
+          "MELATONE LTD.": {
+            "sum": 3,
+            "cnt": 1
+          },
+          "PFLEIDERER LEUTKIRCH GMBH": {
+            "sum": 25,
+            "cnt": 2
+          },
+          "PFLEIDERER ARNSBERG GMBHINGOLSTAETTERSTR. 51              A": {
+            "sum": 27,
+            "cnt": 3
+          },
+          "KOKUSAI PULP&PAPER CO., LTDIMPORT GROUP": {
+            "sum": 21,
+            "cnt": 1
+          },
+          "PT.TACO ANUGRAH CORPORINDO KAWASANINDUSTRI MODERN CIKANDE JL.MODERN": {
+            "sum": 33,
+            "cnt": 1
+          },
+          "JIANGSU BODA NEW MATERIALS TECHNOLOGY CO.,LTD-NO.8 NEW HENGCUI ROAD": {
+            "sum": 34,
+            "cnt": 1
+          },
+          "ALMILL DOO MILICI, BIH": {
+            "sum": 34,
+            "cnt": 1
+          },
+          "NIHON DECOLUXE-KOKUSAI PULP & PAPERCO.,LTD.": {
+            "sum": 17,
+            "cnt": 1
           }
         },
         "19": {
           "PURICELLI S.R.L.": {
-            "sum": 180,
+            "sum": 235,
             "cnt": 1
           }
         },
         "20": {
           "PURICELLI S.R.L.": {
-            "sum": 720,
+            "sum": 940,
             "cnt": 4
           }
         },
         "21": {
           "PURICELLI S.R.L.": {
-            "sum": 298,
+            "sum": 408,
             "cnt": 2
           }
         },
         "22": {
           "PURICELLI S.R.L.": {
-            "sum": 484,
+            "sum": 704,
             "cnt": 4
           }
         },
         "23": {
           "PURICELLI S.R.L.": {
-            "sum": 270,
+            "sum": 435,
             "cnt": 3
           }
         }
       },
       "_GCC_BY_ART": {
         "12": {
-          "10010000": {
-            "articolo": "MERCER ROSENTHAL",
-            "preventivo": 2930
-          },
           "10020000": {
             "articolo": "BRACELL UNWRAPPED CORTA",
             "preventivo": 5842.9
@@ -15885,10 +16239,6 @@
           }
         },
         "13": {
-          "10010000": {
-            "articolo": "MERCER ROSENTHAL",
-            "preventivo": 1765
-          },
           "10020000": {
             "articolo": "EUCALIPTO STANDARD",
             "preventivo": 3305
@@ -15947,10 +16297,6 @@
           }
         },
         "14": {
-          "10010000": {
-            "articolo": "MERCER ROSENTHAL",
-            "preventivo": 1770
-          },
           "10020000": {
             "articolo": "BRACELL UNWRAPPED CORTA",
             "preventivo": 3540
@@ -16013,10 +16359,6 @@
           }
         },
         "15": {
-          "10010000": {
-            "articolo": "MERCER ROSENTHAL",
-            "preventivo": 665
-          },
           "10020000": {
             "articolo": "BRACELL UNWRAPPED CORTA",
             "preventivo": 1330
@@ -16075,10 +16417,6 @@
           }
         },
         "16": {
-          "10010000": {
-            "articolo": "MERCER ROSENTHAL",
-            "preventivo": 1695
-          },
           "10020000": {
             "articolo": "BRACELL UNWRAPPED CORTA",
             "preventivo": 3375
@@ -16141,10 +16479,6 @@
           }
         },
         "17": {
-          "10010000": {
-            "articolo": "MERCER ROSENTHAL",
-            "preventivo": 1380
-          },
           "10020000": {
             "articolo": "BRACELL UNWRAPPED CORTA",
             "preventivo": 2760
@@ -16203,16 +16537,16 @@
           }
         }
       },
-      "_GCC_NUM_12": 63672.78000000001,
-      "_GCC_NUM_13": 52178.73500000004,
-      "GCC": 77.4,
-      "_GCC_NUM_14": 63408.98000000002,
-      "_GCC_NUM_15": 53817.96500000001,
-      "_GCC_NUM_16": 62348.47000000004,
-      "_GCC_NUM_17": 48396.27000000001,
-      "GF": 4.09,
-      "IF": 116.76521813250964,
-      "IG": 2.1990782748289313,
+      "_GCC_NUM_12": 60742.780000000006,
+      "_GCC_NUM_13": 50413.73500000003,
+      "GCC": 75.2,
+      "_GCC_NUM_14": 61638.98000000001,
+      "_GCC_NUM_15": 53152.96500000001,
+      "_GCC_NUM_16": 60653.47000000004,
+      "_GCC_NUM_17": 47016.27000000001,
+      "GF": 5.25,
+      "IF": 100.3141840243643,
+      "IG": 2.099432565652767,
       "MdC_Macchina1": 29.36386967028029,
       "MdC_Macchina2": 31.934420035828232,
       "MdC_Forno3": 31.40742370599118,
