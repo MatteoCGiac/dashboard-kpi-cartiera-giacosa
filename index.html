@@ -3058,7 +3058,7 @@ const KPI_CHART_META={
 /* ══ RANGE TEMPORALI ══ */
 const TIME_RANGES={
   WEEK:{labels:['S1 Gen','S2 Gen','S3 Gen','S4 Gen','S1 Feb','S2 Feb','S3 Feb','S4 Feb','S1 Mar','S2 Mar','S3 Mar','S4 Mar'],n:12,title:'Ultime 12 Settimane',nf:.16},
- MESE:{labels:['Gen 25','Feb 25','Mar 25','Apr 25','Mag 25','Giu 25','Lug 25','Ago 25','Set 25','Ott 25','Nov 25','Dic 25','Gen 26','Feb 26','Mar 26','Apr 26','Mag 26','Giu 26'],n:18,title:'Gen 2025 – Giu 2026',nf:.10},
+ MESE:{labels:['Gen 25','Feb 25','Mar 25','Apr 25','Mag 25','Giu 25','Lug 25','Ago 25','Set 25','Ott 25','Nov 25','Dic 25','Gen 26','Feb 26','Mar 26','Apr 26','Mag 26','Giu 26','Lug 26'],n:19,title:'Gen 2025 – Lug 2026',nf:.10},
   ANNO:{labels:['2022','2023','2024','2025'],n:4,title:'2022 – 2025 (Annuale)',nf:.06}
 };
 
@@ -5078,7 +5078,7 @@ function _meseFromSheetName(sheetName){
 function _meseFromDate(d){
   if(!d||!(d instanceof Date))return null;
   if(d.getFullYear()===2025){return d.getMonth();}
-  if(d.getFullYear()===2026){const m=d.getMonth();if(m>=0&&m<=5)return 12+m;}
+ if(d.getFullYear()===2026){const m=d.getMonth();if(m>=0&&m<=6)return 12+m;}
   return null;
 }
 // Parses a month value that can be a Date, an Italian month name string, or a date string
